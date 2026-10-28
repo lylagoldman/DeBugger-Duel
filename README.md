@@ -14,4 +14,4 @@ A 2.5D action-platformer built in Unity and C# featuring custom input systems, p
 - Architected reusable C# components to support future combat and platforming mechanics.
 
 ## Status
-Currently in active development as a personal game development project focused on gameplay programming, input abstraction, and Unity systems design.
+Currently in active development as a 5-week game development project focused on gameplay programming, input abstraction, and Unity systems design.
