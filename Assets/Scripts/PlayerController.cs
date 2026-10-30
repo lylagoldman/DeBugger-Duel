@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
 
     private CharacterController controller;
     private Vector2 moveInput;
-    private Vector2 velocity;
+    private Vector3 velocity;
     private bool facingRight = true;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -47,6 +47,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (controller.isGrounded && velocity.y < 0)
+        {
+            velocity.y = -2f;
+        }
+        
         if (facingRight && moveInput.x < 0)
         {
             flipAcrossX();
@@ -55,7 +60,7 @@ public class PlayerController : MonoBehaviour
             flipAcrossX();
         }
 
-        Vector2 move = new Vector2(moveInput.x, 0);
+        Vector3 move = new Vector3(moveInput.x, 0, 0);
         controller.Move(move * speed * Time.deltaTime);
         
         velocity.y += gravity * Time.deltaTime;
