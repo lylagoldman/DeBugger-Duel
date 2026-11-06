@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: fd482142bb1354aa087e4c94d9148290
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6232491740239820066
+    second: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225fc8277324e7650800000000000000
+      internalID: 6232491740239820066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fde071a934945b7a2fe5988f0bc87a
+      internalID: 197471320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 183
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fee8bf96c984dfaaba5430704fcf21
+      internalID: 708583724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 183
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c33cb51abefe4255aa86d1be5760c41
+      internalID: 193506892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 183
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a18f20d9064a76b32accc6048bd2b
+      internalID: -1518865255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 183
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12328fe5398e240bc8d78177bdb9cac8
+      internalID: -1962520071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 183
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770d492e894b4a029fa6e1e7851f00e
+      internalID: 1202877737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5df75da453a457a8ec5ec0269f28c4
+      internalID: 400426122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 150
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03269395b28674338882df4ff9c99284
+      internalID: -2021307468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 150
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c35dd06fb274c948f58f171c45a7db
+      internalID: 1148254267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 150
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28438863046444b8a24d43463f3c48
+      internalID: 307931981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893efe534ccce4d28acec6efc6d91475
+      internalID: -72319240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d53a72943514b669daa8693dd8c266
+      internalID: 1571038474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b19660054034cbebba6aaa4ff8da00
+      internalID: -981881931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 117
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c55b6db4ecd48f18553fe1f41c740b
+      internalID: 2002296611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 117
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a6e310ea364c568a25e95d118eaa3
+      internalID: 1587470085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59266f8ec1d94640881f76763888f7a
+      internalID: -335307079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d996aeb726494bd39c85698a91b395a
+      internalID: 1142955407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a233898031499ba3fafb0a08102ed
+      internalID: -85928542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b78061c0c24f7bac37910d8add9d5
+      internalID: -1584137986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc67d6edb3641ababb0b3cdc8e982f
+      internalID: 911698680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689af8f3b94f54bd18827304aee1929a
+      internalID: 200287738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f32a728365874d3ba01e180c177c10e
+      internalID: 1195652268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded12b3155a1b475ea8fa657ea090a78
+      internalID: -1152478156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35aaed2d0f3d4c53a796720dcf14922
+      internalID: -791275082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34be58815b7a4baf90451234176266c
+      internalID: -1353526879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08d449d67634943bf01bec807c1d82
+      internalID: 1988691805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a7e619e5f46452db90ffdbcb769338
+      internalID: -1469140869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f97baa569a4ab7adc917e5e781f18
+      internalID: 710163181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 920ed7b56aad3403eb948b30ece01251
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":63.0,"y":214.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_0: 6232491740239820066
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_1: 197471320
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_10: 307931981
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_11: -72319240
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_12: 1571038474
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_13: -981881931
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_14: 2002296611
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_15: 1587470085
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_16: -335307079
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_17: 1142955407
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_18: -85928542
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_19: -1584137986
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_2: 708583724
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_20: 911698680
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_21: 200287738
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_22: 1195652268
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_23: -1152478156
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_24: -791275082
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_25: -1353526879
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_26: 1988691805
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_27: -1469140869
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_28: 710163181
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_29: -1801973148
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_3: 193506892
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_30: 373857707
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_31: 50829341
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_32: 1692843430
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_33: -931125317
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_34: 413232936
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_4: -1518865255
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_5: -1962520071
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_6: 1202877737
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_7: 400426122
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_8: -2021307468
+      3DS - Shantae and the Pirate's Curse - Enemies - Bug_9: 1148254267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

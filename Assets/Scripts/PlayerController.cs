@@ -7,31 +7,32 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float jumpHeight = 3f;
     [SerializeField] private float gravity = -45f;
 
-    private CharacterController controller;
+    private Rigidbody2D rb;
     private Vector2 moveInput;
     private Vector3 velocity;
     private bool facingRight = true;
+    private bool isGrounded;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        controller = GetComponent<CharacterController>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
 
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
-        Debug.Log($"Move Input: {moveInput}");
     }
 
     public void OnJump(InputAction.CallbackContext context)
     {
-        Debug.Log($"Jumping: {context.performed} - Is Grounded: {controller.isGrounded}");
-        if (context.performed && controller.isGrounded)
+        Debug.Log($"Jumping: {context.performed} - Is Grounded: {isGrounded}");
+        if (context.performed && isGrounded)
         {
-            Debug.Log("We are supposed to jump");
-            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Sqrt(jumpHeight * -2f * Physics2D.gravity.y * rb.gravityScale));
+
+            isGrounded = false;
         }
     }
 
@@ -45,12 +46,10 @@ public class PlayerController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        if (controller.isGrounded && velocity.y < 0)
-        {
-            velocity.y = -2f;
-        }
+        rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
+        Debug.Log($"Move Input: {moveInput}");
         
         if (facingRight && moveInput.x < 0)
         {
@@ -59,11 +58,21 @@ public class PlayerController : MonoBehaviour
         {
             flipAcrossX();
         }
+    }
 
-        Vector3 move = new Vector3(moveInput.x, 0, 0);
-        controller.Move(move * speed * Time.deltaTime);
-        
-        velocity.y += gravity * Time.deltaTime;
-        controller.Move(velocity * Time.deltaTime);   
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = false;
+        }
     }
 }
