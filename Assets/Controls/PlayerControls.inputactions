@@ -25,6 +25,16 @@
                     "interactions": "",
                     "initialStateCheck": true,
                     "priority": 0
+                },
+                {
+                    "name": "DuckAttack",
+                    "type": "Button",
+                    "id": "72f40580-9dff-46f4-8b48-a8eeaf395757",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
                 }
             ],
             "bindings": [
@@ -113,6 +123,39 @@
                     "processors": "",
                     "groups": "",
                     "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "97181e33-81b4-4900-9125-b9ff4c81d6e0",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DuckAttack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3862ebfe-607b-428c-b20c-5bd589e162e5",
+                    "path": "<HID::8BitDo Ultimate 2C Wireless>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DuckAttack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "06f1f61e-8e7c-4884-9788-2a3ea3c5e3d9",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DuckAttack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

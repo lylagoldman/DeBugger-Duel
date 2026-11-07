@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -8,15 +9,17 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float gravity = -45f;
 
     private Rigidbody2D rb;
+    private Animator animator;
     private Vector2 moveInput;
-    private Vector3 velocity;
-    private bool facingRight = true;
     private bool isGrounded;
-    
+    private bool isFacingLeft;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        isFacingLeft = animator.GetBool("IsFacingLeft");
     }
 
 
@@ -27,36 +30,64 @@ public class PlayerController : MonoBehaviour
 
     public void OnJump(InputAction.CallbackContext context)
     {
-        Debug.Log($"Jumping: {context.performed} - Is Grounded: {isGrounded}");
         if (context.performed && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Sqrt(jumpHeight * -2f * Physics2D.gravity.y * rb.gravityScale));
-
             isGrounded = false;
         }
     }
 
-    public void flipAcrossX()
+    public void OnDuckAttack(InputAction.CallbackContext context)
     {
-        facingRight = !facingRight;
-
-        Vector3 currentScale = transform.localScale;
-        currentScale.x *= -1;
-        transform.localScale = currentScale;
+        if (context.performed && (animator.GetBool("IsDucking") == true))
+        {
+            animator.SetTrigger("DuckAttack");
+            animator.SetBool("IsDucking", true);
+        }
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
-        Debug.Log($"Move Input: {moveInput}");
-        
-        if (facingRight && moveInput.x < 0)
+        ValidateMove();
+        CheckForDuck();
+        CheckForTurn();
+    }
+
+    public void ValidateMove()
+    {
+        if (Math.Abs(moveInput.y) < 0.35 && Math.Abs(moveInput.x) > 0.1)
         {
-            flipAcrossX();
-        } else if (!facingRight && moveInput.x > 0)
+            rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
+        } else
         {
-            flipAcrossX();
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        }
+
+        animator.SetFloat("SpeedX", Math.Abs(rb.linearVelocityX));
+        animator.SetBool("IsRunning", rb.linearVelocityX != 0); 
+        animator.SetBool("IsGrounded", isGrounded);
+    }
+
+    public void CheckForDuck()
+    {
+        if ((moveInput.y < -0.65) && isGrounded && (rb.linearVelocityX == 0) && (animator.GetBool("IsDucking") == false))
+        {
+            animator.SetTrigger("Duck");
+            animator.SetBool("IsDucking", true);
+        } else if ((moveInput.y >= -0.35) && (animator.GetBool("IsDucking") == true))
+        {
+            animator.SetBool("IsDucking", false);
+        }
+    }
+
+    public void CheckForTurn()
+    {
+        isFacingLeft = animator.GetBool("IsFacingLeft");
+
+        if (((!isFacingLeft && moveInput.x < -0.1) || (isFacingLeft && moveInput.x > 0.1)) && animator.GetBool("IsDucking") == false)
+        {
+            animator.SetTrigger("Turn");
         }
     }
 

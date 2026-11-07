@@ -115,15 +115,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_0
+      name: Run-1
       rect:
         serializedVersion: 2
         x: 2
         y: 183
         width: 42
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,15 +137,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_1
+      name: Turn-1
       rect:
         serializedVersion: 2
         x: 2
         y: 150
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,15 +159,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_2
+      name: Run-2
       rect:
         serializedVersion: 2
         x: 46
         y: 183
         width: 42
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,15 +181,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_3
+      name: Run-3
       rect:
         serializedVersion: 2
         x: 90
         y: 183
         width: 42
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,15 +203,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_4
+      name: Run-4
       rect:
         serializedVersion: 2
         x: 134
         y: 183
         width: 42
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,15 +225,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_5
+      name: Run-5
       rect:
         serializedVersion: 2
         x: 178
         y: 183
         width: 42
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,15 +247,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_6
+      name: Run-6
       rect:
         serializedVersion: 2
         x: 222
         y: 183
         width: 42
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,15 +269,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_7
+      name: Turn-2
       rect:
         serializedVersion: 2
         x: 40
         y: 150
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -291,15 +291,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_8
+      name: Turn-3
       rect:
         serializedVersion: 2
         x: 78
         y: 150
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -313,15 +313,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_9
+      name: Turn-4
       rect:
         serializedVersion: 2
         x: 116
         y: 150
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -335,15 +335,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_10
+      name: Turn-5
       rect:
         serializedVersion: 2
         x: 154
         y: 150
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -357,15 +357,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_11
+      name: Turn-6
       rect:
         serializedVersion: 2
         x: 192
         y: 150
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -379,15 +379,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_12
+      name: Duck-1
       rect:
         serializedVersion: 2
         x: 2
         y: 117
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -401,15 +401,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_13
+      name: Duck-2
       rect:
         serializedVersion: 2
         x: 40
         y: 117
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -423,15 +423,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_14
+      name: Duck-3
       rect:
         serializedVersion: 2
         x: 78
         y: 117
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -445,15 +445,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_15
+      name: Duck-4
       rect:
         serializedVersion: 2
         x: 116
         y: 117
         width: 36
         height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -467,15 +467,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_16
+      name: DuckHold-1
       rect:
         serializedVersion: 2
         x: 2
         y: 92
         width: 42
         height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -489,15 +489,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_17
+      name: DuckHold-2
       rect:
         serializedVersion: 2
         x: 46
         y: 92
         width: 42
         height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -511,15 +511,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_18
+      name: DuckAttack-1
       rect:
         serializedVersion: 2
         x: 2
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -533,15 +533,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_19
+      name: DuckAttack-2
       rect:
         serializedVersion: 2
         x: 40
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -555,15 +555,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_20
+      name: DuckAttack-3
       rect:
         serializedVersion: 2
         x: 78
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -577,15 +577,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_21
+      name: DuckAttack-4
       rect:
         serializedVersion: 2
         x: 116
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -599,15 +599,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_22
+      name: DuckAttack-5
       rect:
         serializedVersion: 2
         x: 154
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -621,15 +621,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_23
+      name: DuckAttack-6
       rect:
         serializedVersion: 2
         x: 192
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -643,15 +643,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_24
+      name: DuckAttack-7
       rect:
         serializedVersion: 2
         x: 230
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -665,15 +665,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_25
+      name: DuckAttack-8
       rect:
         serializedVersion: 2
         x: 268
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -687,15 +687,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_26
+      name: DuckAttack-9
       rect:
         serializedVersion: 2
         x: 306
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -709,15 +709,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_27
+      name: DuckAttack-10
       rect:
         serializedVersion: 2
         x: 344
         y: 47
         width: 36
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,15 +731,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3DS - Shantae and the Pirate's Curse - Enemies - Bug_28
+      name: Die-1
       rect:
         serializedVersion: 2
         x: 2
         y: 2
         width: 42
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -770,41 +770,41 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":63.0,"y":214.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_0: 6232491740239820066
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_1: 197471320
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_10: 307931981
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_11: -72319240
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_12: 1571038474
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_13: -981881931
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_14: 2002296611
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_15: 1587470085
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_16: -335307079
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_17: 1142955407
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_18: -85928542
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_19: -1584137986
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_2: 708583724
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_20: 911698680
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_21: 200287738
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_22: 1195652268
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_23: -1152478156
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_24: -791275082
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_25: -1353526879
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_26: 1988691805
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_27: -1469140869
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_28: 710163181
       3DS - Shantae and the Pirate's Curse - Enemies - Bug_29: -1801973148
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_3: 193506892
       3DS - Shantae and the Pirate's Curse - Enemies - Bug_30: 373857707
       3DS - Shantae and the Pirate's Curse - Enemies - Bug_31: 50829341
       3DS - Shantae and the Pirate's Curse - Enemies - Bug_32: 1692843430
       3DS - Shantae and the Pirate's Curse - Enemies - Bug_33: -931125317
       3DS - Shantae and the Pirate's Curse - Enemies - Bug_34: 413232936
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_4: -1518865255
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_5: -1962520071
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_6: 1202877737
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_7: 400426122
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_8: -2021307468
-      3DS - Shantae and the Pirate's Curse - Enemies - Bug_9: 1148254267
+      Die-1: 710163181
+      Duck-1: 1571038474
+      Duck-2: -981881931
+      Duck-3: 2002296611
+      Duck-4: 1587470085
+      DuckAttack-1: -85928542
+      DuckAttack-10: -1469140869
+      DuckAttack-2: -1584137986
+      DuckAttack-3: 911698680
+      DuckAttack-4: 200287738
+      DuckAttack-5: 1195652268
+      DuckAttack-6: -1152478156
+      DuckAttack-7: -791275082
+      DuckAttack-8: -1353526879
+      DuckAttack-9: 1988691805
+      DuckHold-1: -335307079
+      DuckHold-2: 1142955407
+      Run-1: 6232491740239820066
+      Run-2: 708583724
+      Run-3: 193506892
+      Run-4: -1518865255
+      Run-5: -1962520071
+      Run-6: 1202877737
+      Turn-1: 197471320
+      Turn-2: 400426122
+      Turn-3: -2021307468
+      Turn-4: 1148254267
+      Turn-5: 307931981
+      Turn-6: -72319240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
