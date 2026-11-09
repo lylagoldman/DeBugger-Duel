@@ -2,27 +2,41 @@ using UnityEngine;
 
 public class BulletScript : MonoBehaviour
 {
-    [SerializeField] float speed = 4.0f;
-    public Animator animator;
+    [SerializeField] float speed = 8.0f;
+    private SpriteRenderer player;
+    private Animator bulletAnimator;
     private Rigidbody2D rb;
+    private float directionMultiplier = 1.0f;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        animator = GetComponent<Animator>();
+        player = GameObject.FindWithTag("Player").GetComponent<SpriteRenderer>();
+        bulletAnimator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        CheckFacingDirection();
     }
 
     // Update is called once per frame
     void Update()
-    {   
-        if (animator.GetBool("HasCollided") == false)
+    { 
+        if (!bulletAnimator.GetBool("HasCollided"))
         {
-            rb.linearVelocityX = speed;
+            rb.linearVelocityX = speed * directionMultiplier;
+        } else {
+            rb.linearVelocityX = 0;
+        }
+    }
+
+    private void CheckFacingDirection()
+    {
+        if (player.flipX)
+        {
+            directionMultiplier = -1.0f;
         } else
         {
-            rb.linearVelocityX = 0;
+            directionMultiplier = 1.0f;
         }
     }
 
@@ -30,7 +44,7 @@ public class BulletScript : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            animator.SetBool("HasCollided", true);
+            bulletAnimator.SetBool("HasCollided", true);
         }
     }
 }

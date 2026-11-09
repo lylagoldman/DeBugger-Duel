@@ -172,8 +172,7 @@ AnimatorState:
   m_Transitions:
   - {fileID: 5906688435882300516}
   - {fileID: -1312768282644705130}
-  m_StateMachineBehaviours:
-  - {fileID: -2552770158406682655}
+  m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -213,18 +212,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
---- !u!114 &-2552770158406682655
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 817557a640aef49f5ac85bfda7edc840, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FlipStateBehaviour
 --- !u!1101 &-1643335349442929048
 AnimatorStateTransition:
   m_ObjectHideFlags: 1

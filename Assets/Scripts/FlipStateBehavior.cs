@@ -3,6 +3,7 @@ using UnityEngine;
 public class FlipStateBehaviour : StateMachineBehaviour
 {
     private SpriteRenderer spriteRenderer;
+    private Transform firePoint;
 
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -15,6 +16,11 @@ public class FlipStateBehaviour : StateMachineBehaviour
         if (stateInfo.IsName("Turn")) 
         {
             spriteRenderer.flipX = !spriteRenderer.flipX;
+            
+            firePoint = GameObject.Find("StandardFirePoint").GetComponent<Transform>();
+            Vector3 scale = firePoint.localScale;
+            scale.x *= -1;
+            firePoint.localScale = scale;
         }
     }
 }

@@ -112,4 +112,9 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
-/Assets/Welcome
+
+# Auto-generated welcome scene files
+/[Aa]ssets/[Ww]elcome
+
+# Externally-generated directories at root
+/state
