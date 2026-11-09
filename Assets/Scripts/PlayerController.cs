@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
+    
     private Vector2 moveInput;
     private bool isGrounded;
     private bool isFacingLeft;
@@ -18,10 +19,9 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();;
         isFacingLeft = animator.GetBool("IsFacingLeft");
     }
-
 
     public void OnMove(InputAction.CallbackContext context)
     {
@@ -34,15 +34,6 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Sqrt(jumpHeight * -2f * Physics2D.gravity.y * rb.gravityScale));
             isGrounded = false;
-        }
-    }
-
-    public void OnDuckAttack(InputAction.CallbackContext context)
-    {
-        if (context.performed && (animator.GetBool("IsDucking") == true))
-        {
-            animator.SetTrigger("DuckAttack");
-            animator.SetBool("IsDucking", true);
         }
     }
 
