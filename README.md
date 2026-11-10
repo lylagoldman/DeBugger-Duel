@@ -53,12 +53,10 @@ To clone and run this project locally, you will need **Unity Hub** and the corre
 Assets/
  ├── _Project/           # Main game logic and custom assets
  │    ├── Animations/    # Animation controllers and clips
- |    ├── Controls/      # Custom input mappings
  │    ├── Prefabs/       # Reusable GameObjects
  │    ├── Scenes/        # Main scene
  │    ├── Scripts/       # All C# source code
  │    └── Sprites/       # 2D Art and Spritesheets
- └── ThirdParty/         # External Asset Store packages (ignored from bulk changes)
 ```
 
 ---
@@ -66,7 +64,8 @@ Assets/
 ## 👥 Credits & Assets
 
 ### Third-Party Assets
-*   Audio tracks provided by [Incompetech](https://incompetech.com).
+*   Patchbug sprite sheet from The Spriters Resource: https://www.spriters-resource.com/3ds/shantaeandthepiratescurse/asset/66758/
+*   Patchbug FX sheet from The Spriters Resource: https://www.spriters-resource.com/3ds/shantaeandthepiratescurse/asset/69320/
 *   Environment textures from the [Unity Asset Store](https://unity.com) (Standard Assets Pack).
 
 ---
