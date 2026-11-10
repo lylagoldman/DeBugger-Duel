@@ -4,13 +4,13 @@ using UnityEngine.InputSystem;
 public class PlayerShooting : MonoBehaviour
 {   
     public GameObject bullet;
+    public GameObject fireball;
 
     [SerializeField] float fireRate = 0.8f;
     [SerializeField] Transform standardFirePoint;
     [SerializeField] Transform duckFirePoint;
 
-    private Animator animator;
-    [SerializeField] Animator fireballAnimator;
+    private Animator playerAnimator;
     private float nextFireTime = 0f;
     private bool isValidAttack;
     private bool isHoldingShoot;
@@ -18,13 +18,13 @@ public class PlayerShooting : MonoBehaviour
 
     void Start()
     {
-        animator = GetComponent<Animator>();
-        isValidAttack = animator.GetBool("IsDucking") == false;
+        playerAnimator = GetComponent<Animator>();
+        isValidAttack = playerAnimator.GetBool("IsDucking") == false;
     }
 
     void Update()
     {
-        // Shoot standard bullet
+        // Shoot standard bullets, recalculate time allowed before next bullet
         if (isHoldingShoot && isValidAttack && Time.time >= nextFireTime)
         {
             nextFireTime = Time.time + fireRate;
@@ -34,20 +34,24 @@ public class PlayerShooting : MonoBehaviour
 
     public void OnAttack(InputAction.CallbackContext context)
     {
-        // Duck Attack trigger
-        if (context.performed && (animator.GetBool("IsDucking") == true))
+        // Duck Attack, spawn fireball
+        if (context.performed && playerAnimator.GetBool("IsDucking") && playerAnimator.GetCurrentAnimatorStateInfo(0).IsName("DuckIdle"))
         {
-            animator.SetTrigger("DuckAttack");
-            //fireballAnimator.SetTrigger("Shoot");
+            playerAnimator.SetTrigger("DuckAttack");
         }
         
         // Sets isHoldingShoot for only standard shooting, not Duck Attack
-        if (context.performed && (animator.GetBool("IsDucking") == false))
+        if (context.performed && !playerAnimator.GetBool("IsDucking"))
         {
             isHoldingShoot = true;  
-        } else if (context.canceled && (animator.GetBool("IsDucking") == false))
+        } else if (context.canceled && !playerAnimator.GetBool("IsDucking"))
         {
             isHoldingShoot = false;
         }
+    }
+
+    public void SpawnFireball()
+    {
+        Instantiate(fireball, duckFirePoint.position, duckFirePoint.rotation);
     }
 }

@@ -8,11 +8,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float jumpHeight = 3f;
 
     private Rigidbody2D rb;
-    private Animator animator;
-    
+    private Animator animator;  
     private Vector2 moveInput;
     private bool isGrounded;
     private bool isFacingLeft;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,7 +29,7 @@ public class PlayerController : MonoBehaviour
 
     public void OnJump(InputAction.CallbackContext context)
     {
-        if (context.performed && isGrounded)
+        if (context.performed && isGrounded && !animator.GetBool("IsDucking"))
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Sqrt(jumpHeight * -2f * Physics2D.gravity.y * rb.gravityScale));
             isGrounded = false;
@@ -85,6 +85,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
+
             isGrounded = true;
         }
     }

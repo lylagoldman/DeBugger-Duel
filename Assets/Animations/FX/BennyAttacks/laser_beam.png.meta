@@ -1,0 +1,3928 @@
+fileFormatVersion: 2
+guid: 6cd3a918faf444b87805920a3cd94d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -656661307028377572
+    second: benny_fx_laser_0
+  - first:
+      213: 2695299644686057489
+    second: benny_fx_laser_1
+  - first:
+      213: 8558049078950748994
+    second: benny_fx_laser_2
+  - first:
+      213: -4115895956137312309
+    second: benny_fx_laser_3
+  - first:
+      213: 3141262073771719676
+    second: benny_fx_laser_4
+  - first:
+      213: -1298463625676927824
+    second: benny_fx_laser_5
+  - first:
+      213: -4621828106058833364
+    second: benny_fx_laser_6
+  - first:
+      213: -4497365473700065525
+    second: benny_fx_laser_7
+  - first:
+      213: 8624142762572010925
+    second: benny_fx_laser_8
+  - first:
+      213: 1126991672648158487
+    second: benny_fx_laser_9
+  - first:
+      213: 9108615603410296867
+    second: benny_fx_laser_10
+  - first:
+      213: 1709741438796956557
+    second: benny_fx_laser_11
+  - first:
+      213: 4314239309311811156
+    second: benny_fx_laser_12
+  - first:
+      213: 3272914501917905730
+    second: benny_fx_laser_13
+  - first:
+      213: 989782217084260349
+    second: benny_fx_laser_14
+  - first:
+      213: 2946663451541022658
+    second: benny_fx_laser_15
+  - first:
+      213: -7431449019278819245
+    second: benny_fx_laser_16
+  - first:
+      213: 5481949415261524974
+    second: benny_fx_laser_17
+  - first:
+      213: -5783122876280091481
+    second: benny_fx_laser_18
+  - first:
+      213: -7021473246142908160
+    second: benny_fx_laser_19
+  - first:
+      213: 6581868894666077232
+    second: benny_fx_laser_20
+  - first:
+      213: 5317680353866381299
+    second: benny_fx_laser_21
+  - first:
+      213: -7370408074820537740
+    second: benny_fx_laser_22
+  - first:
+      213: -5798807749862617471
+    second: benny_fx_laser_23
+  - first:
+      213: 9201928919404456844
+    second: benny_fx_laser_24
+  - first:
+      213: 2989352470672976249
+    second: benny_fx_laser_25
+  - first:
+      213: -625569315685819144
+    second: benny_fx_laser_26
+  - first:
+      213: 3856851960544167571
+    second: benny_fx_laser_27
+  - first:
+      213: 5334061958310286669
+    second: benny_fx_laser_28
+  - first:
+      213: 3638203468406007382
+    second: benny_fx_laser_29
+  - first:
+      213: -463455156982370023
+    second: benny_fx_laser_30
+  - first:
+      213: -2033004498248502640
+    second: benny_fx_laser_31
+  - first:
+      213: -8941635670931502447
+    second: benny_fx_laser_32
+  - first:
+      213: 7203725556058363575
+    second: benny_fx_laser_33
+  - first:
+      213: 7364527331907788698
+    second: benny_fx_laser_34
+  - first:
+      213: -4910547601681850114
+    second: benny_fx_laser_35
+  - first:
+      213: 4351692393195881350
+    second: benny_fx_laser_36
+  - first:
+      213: -3648244715242178855
+    second: benny_fx_laser_37
+  - first:
+      213: 5463267226955249020
+    second: benny_fx_laser_38
+  - first:
+      213: 1290403853316116995
+    second: benny_fx_laser_39
+  - first:
+      213: -4717096076585916629
+    second: benny_fx_laser_40
+  - first:
+      213: 7574128474973854554
+    second: benny_fx_laser_41
+  - first:
+      213: 144883080935592428
+    second: benny_fx_laser_42
+  - first:
+      213: 3743905395451698380
+    second: benny_fx_laser_43
+  - first:
+      213: 2809288386251859905
+    second: benny_fx_laser_44
+  - first:
+      213: -5437969369886738511
+    second: benny_fx_laser_45
+  - first:
+      213: 5420024109377345451
+    second: benny_fx_laser_46
+  - first:
+      213: -4570096467371412449
+    second: benny_fx_laser_47
+  - first:
+      213: -146213250849146379
+    second: benny_fx_laser_48
+  - first:
+      213: 2166250356531538911
+    second: benny_fx_laser_49
+  - first:
+      213: -4679113736059904150
+    second: benny_fx_laser_50
+  - first:
+      213: -4992681379000200127
+    second: benny_fx_laser_51
+  - first:
+      213: -2310777214336647957
+    second: benny_fx_laser_52
+  - first:
+      213: -2700135878166853387
+    second: benny_fx_laser_53
+  - first:
+      213: -6340156868222404256
+    second: benny_fx_laser_54
+  - first:
+      213: -1532670609555732915
+    second: benny_fx_laser_55
+  - first:
+      213: 8467576708978358841
+    second: benny_fx_laser_56
+  - first:
+      213: -6012442028013114039
+    second: benny_fx_laser_57
+  - first:
+      213: 616261944043111879
+    second: benny_fx_laser_58
+  - first:
+      213: -1076119366136060581
+    second: benny_fx_laser_59
+  - first:
+      213: -273149812312239298
+    second: benny_fx_laser_60
+  - first:
+      213: 3375465638507120151
+    second: benny_fx_laser_61
+  - first:
+      213: -950722154369729550
+    second: benny_fx_laser_62
+  - first:
+      213: 5487440401637242565
+    second: benny_fx_laser_63
+  - first:
+      213: -1847518070857721499
+    second: benny_fx_laser_64
+  - first:
+      213: -7294474485662684204
+    second: benny_fx_laser_65
+  - first:
+      213: 1751410641714265
+    second: benny_fx_laser_66
+  - first:
+      213: -2419663029993118135
+    second: benny_fx_laser_67
+  - first:
+      213: -8386909045561223683
+    second: benny_fx_laser_68
+  - first:
+      213: -5191617768864065950
+    second: benny_fx_laser_69
+  - first:
+      213: 4444691410064834179
+    second: benny_fx_laser_70
+  - first:
+      213: 875148621410667303
+    second: benny_fx_laser_71
+  - first:
+      213: 8107555440287106169
+    second: benny_fx_laser_72
+  - first:
+      213: 7568854539792836254
+    second: benny_fx_laser_73
+  - first:
+      213: -2147373794681211503
+    second: benny_fx_laser_74
+  - first:
+      213: -1198228328024105462
+    second: benny_fx_laser_75
+  - first:
+      213: 3814268873573988540
+    second: benny_fx_laser_76
+  - first:
+      213: -6750375863023904579
+    second: benny_fx_laser_77
+  - first:
+      213: -1928085340824468187
+    second: benny_fx_laser_78
+  - first:
+      213: -1359529758791900526
+    second: benny_fx_laser_79
+  - first:
+      213: -4374196946092412061
+    second: benny_fx_laser_80
+  - first:
+      213: -3030426836862599822
+    second: benny_fx_laser_81
+  - first:
+      213: 7105182149461751675
+    second: benny_fx_laser_82
+  - first:
+      213: -2099672739475712825
+    second: benny_fx_laser_83
+  - first:
+      213: -4424919312194564288
+    second: benny_fx_laser_84
+  - first:
+      213: 3677073678444894379
+    second: benny_fx_laser_85
+  - first:
+      213: -165241043686973720
+    second: benny_fx_laser_86
+  - first:
+      213: 2914307597663295485
+    second: benny_fx_laser_87
+  - first:
+      213: 841997840171814348
+    second: benny_fx_laser_88
+  - first:
+      213: 7653473384338944489
+    second: benny_fx_laser_89
+  - first:
+      213: -7870245606160970801
+    second: benny_fx_laser_90
+  - first:
+      213: -5488220853800419831
+    second: benny_fx_laser_91
+  - first:
+      213: 943992108482341775
+    second: benny_fx_laser_92
+  - first:
+      213: -7475896839033800635
+    second: benny_fx_laser_93
+  - first:
+      213: -6791779346498579172
+    second: benny_fx_laser_94
+  - first:
+      213: -5882863894757422340
+    second: benny_fx_laser_95
+  - first:
+      213: -6783093913330900805
+    second: benny_fx_laser_96
+  - first:
+      213: -4065596316144676380
+    second: benny_fx_laser_97
+  - first:
+      213: 2459482126847237440
+    second: benny_fx_laser_98
+  - first:
+      213: 3842178519607159146
+    second: benny_fx_laser_99
+  - first:
+      213: 5305797622196721689
+    second: benny_fx_laser_100
+  - first:
+      213: -3749210358819913757
+    second: benny_fx_laser_101
+  - first:
+      213: -7495705262628609970
+    second: benny_fx_laser_102
+  - first:
+      213: -3723177297487009546
+    second: benny_fx_laser_103
+  - first:
+      213: 3979633343986022835
+    second: benny_fx_laser_104
+  - first:
+      213: -7685758397608270772
+    second: benny_fx_laser_105
+  - first:
+      213: 3993272399114586068
+    second: benny_fx_laser_106
+  - first:
+      213: -4862937063152775355
+    second: benny_fx_laser_107
+  - first:
+      213: -7719163376435199646
+    second: benny_fx_laser_108
+  - first:
+      213: 8924963325586307917
+    second: benny_fx_laser_109
+  - first:
+      213: -792129095677583551
+    second: benny_fx_laser_110
+  - first:
+      213: -7083687732450177253
+    second: benny_fx_laser_111
+  - first:
+      213: -1582326617146133126
+    second: benny_fx_laser_112
+  - first:
+      213: 7826969085073200229
+    second: benny_fx_laser_113
+  - first:
+      213: -2678257074342627701
+    second: benny_fx_laser_114
+  - first:
+      213: 979529532538072123
+    second: benny_fx_laser_115
+  - first:
+      213: -2524465667376804742
+    second: benny_fx_laser_116
+  - first:
+      213: 2935102681412239673
+    second: benny_fx_laser_117
+  - first:
+      213: -3536190506107951845
+    second: benny_fx_laser_118
+  - first:
+      213: -3428219367385421765
+    second: benny_fx_laser_119
+  - first:
+      213: -1349243278707906074
+    second: benny_fx_laser_120
+  - first:
+      213: 7608907342161383552
+    second: benny_fx_laser_121
+  - first:
+      213: 5892991300400515219
+    second: benny_fx_laser_122
+  - first:
+      213: -7364175848725010477
+    second: benny_fx_laser_123
+  - first:
+      213: 3416298079641711900
+    second: benny_fx_laser_124
+  - first:
+      213: -4175776226200305258
+    second: benny_fx_laser_125
+  - first:
+      213: 2266038069700620154
+    second: benny_fx_laser_126
+  - first:
+      213: -8545008278855174187
+    second: benny_fx_laser_127
+  - first:
+      213: -6725968151692819108
+    second: benny_fx_laser_128
+  - first:
+      213: 1810419510634536976
+    second: benny_fx_laser_129
+  - first:
+      213: -6930225180001819636
+    second: benny_fx_laser_130
+  - first:
+      213: 6074818516366816083
+    second: benny_fx_laser_131
+  - first:
+      213: 4453622782683114802
+    second: benny_fx_laser_132
+  - first:
+      213: -4182390069799894805
+    second: benny_fx_laser_133
+  - first:
+      213: 4015457860306533449
+    second: benny_fx_laser_134
+  - first:
+      213: -911213139958431599
+    second: benny_fx_laser_135
+  - first:
+      213: 5402742575947136454
+    second: benny_fx_laser_136
+  - first:
+      213: 4451879795110770114
+    second: benny_fx_laser_137
+  - first:
+      213: -8588221798118644150
+    second: benny_fx_laser_138
+  - first:
+      213: -1252760217529762772
+    second: benny_fx_laser_139
+  - first:
+      213: -31246199565328108
+    second: benny_fx_laser_140
+  - first:
+      213: 8211659259631903663
+    second: benny_fx_laser_141
+  - first:
+      213: 4850423124225211996
+    second: benny_fx_laser_142
+  - first:
+      213: 917094939062827605
+    second: benny_fx_laser_143
+  - first:
+      213: -3526406377241283014
+    second: benny_fx_laser_144
+  - first:
+      213: 2077308154516125779
+    second: benny_fx_laser_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: benny_fx_laser_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 407
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1074d8350213e6f0800000000000000
+      internalID: -656661307028377572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 619
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110cfbc1fb0a76520800000000000000
+      internalID: 2695299644686057489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 619
+        width: 373
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243e7397b4c44c670800000000000000
+      internalID: 8558049078950748994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 587
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcff7f15f6661e6c0800000000000000
+      internalID: -4115895956137312309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 587
+        width: 365
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf1958631089b20800000000000000
+      internalID: 3141262073771719676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 555
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc2c5463eeafde0800000000000000
+      internalID: -1298463625676927824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 555
+        width: 357
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22627533d7fbdfb0800000000000000
+      internalID: -4621828106058833364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 516
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f40030ee52691c0800000000000000
+      internalID: -4497365473700065525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_8
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 516
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da55c5f562c1fa770800000000000000
+      internalID: 8624142762572010925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 483
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d440984f0e3af00800000000000000
+      internalID: 1126991672648158487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 483
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e9dcb1ad486e70800000000000000
+      internalID: 9108615603410296867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 450
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83024da7c83ab710800000000000000
+      internalID: 1709741438796956557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 450
+        width: 121
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e9e834bc14fdb30800000000000000
+      internalID: 4314239309311811156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 418
+        width: 177
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2439a0b166abb6d20800000000000000
+      internalID: 3272914501917905730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 418
+        width: 176
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff4e4eaea96cbd00800000000000000
+      internalID: 989782217084260349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 386
+        width: 233
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7aabd0cc6a4e820800000000000000
+      internalID: 2946663451541022658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350067f8d703ed890800000000000000
+      internalID: -7431449019278819245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 354
+        width: 282
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3d255d2fbc31c40800000000000000
+      internalID: 5481949415261524974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc3e262683ebfa0800000000000000
+      internalID: -5783122876280091481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 354
+        width: 281
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093eb3b847be8e90800000000000000
+      internalID: -7021473246142908160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 360
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b3c033ee775b50800000000000000
+      internalID: 6581868894666077232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 360
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f777498b123cc940800000000000000
+      internalID: 5317680353866381299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 337
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472b6a2f7ec07b990800000000000000
+      internalID: -7370408074820537740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 322
+        width: 338
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e08ac231f768fa0800000000000000
+      internalID: -5798807749862617471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 337
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b2f792991d3bf70800000000000000
+      internalID: 9201928919404456844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 322
+        width: 337
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97926eadb305c7920800000000000000
+      internalID: 2989352470672976249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc992495088157f0800000000000000
+      internalID: -625569315685819144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39601837c6a468530800000000000000
+      internalID: 3856851960544167571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 768
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45520b0715660a40800000000000000
+      internalID: 5334061958310286669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 768
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6562fea47ce7d7230800000000000000
+      internalID: 3638203468406007382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 768
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113ebe7df97199f0800000000000000
+      internalID: -463455156982370023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 768
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092702f1e2159c3e0800000000000000
+      internalID: -2033004498248502640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 768
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8a2b6bbde8e380800000000000000
+      internalID: -8941635670931502447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 768
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6134ce936c8f360800000000000000
+      internalID: 7203725556058363575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fd405e69e043660800000000000000
+      internalID: 7364527331907788698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef06b1539fa3adbb0800000000000000
+      internalID: -4910547601681850114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c534ec21546c30800000000000000
+      internalID: 4351692393195881350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d63b4eb2c4de5dc0800000000000000
+      internalID: -3648244715242178855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7573b7e89c61db40800000000000000
+      internalID: 5463267226955249020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302d3bdb77f68e110800000000000000
+      internalID: 1290403853316116995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2725bf4c12898eb0800000000000000
+      internalID: -4717096076585916629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bdcf1f7b5bc1960800000000000000
+      internalID: 7574128474973854554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1512df46ab20200800000000000000
+      internalID: 144883080935592428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc11900f1605f330800000000000000
+      internalID: 3743905395451698380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c72c2e27e89cf620800000000000000
+      internalID: 2809288386251859905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b732707ba37884b0800000000000000
+      internalID: -5437969369886738511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba75d71063bc73b40800000000000000
+      internalID: 5420024109377345451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f143f01f971c390c0800000000000000
+      internalID: -4570096467371412449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97ea1b2db88fdf0800000000000000
+      internalID: -146213250849146379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb20a3d831101e10800000000000000
+      internalID: 2166250356531538911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9f7a19d2701fb0800000000000000
+      internalID: -4679113736059904150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1445cf7fcbe66bab0800000000000000
+      internalID: -4992681379000200127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb568dd587eefd0800000000000000
+      internalID: -2310777214336647957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c39889b0378ad0800000000000000
+      internalID: -2700135878166853387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b9518bec3308a0800000000000000
+      internalID: -6340156868222404256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46cfb7733cdabae0800000000000000
+      internalID: -1532670609555732915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ab6075720e28570800000000000000
+      internalID: 8467576708978358841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_57
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 102
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d26afa4d38f8ca0800000000000000
+      internalID: -6012442028013114039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5084719f66d8800800000000000000
+      internalID: 616261944043111879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55aa85532bd011f0800000000000000
+      internalID: -1076119366136060581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_60
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e331aa261b3953cf0800000000000000
+      internalID: -273149812312239298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_61
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71601ce3d1018de20800000000000000
+      internalID: 3375465638507120151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb2bcdc3b5ec2f0800000000000000
+      internalID: -950722154369729550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f6b9b8fd472c40800000000000000
+      internalID: 5487440401637242565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56919666a1c4c56e0800000000000000
+      internalID: -1847518070857721499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_65
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbece26a12d4ca90800000000000000
+      internalID: -7294474485662684204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb72116e8360000800000000000000
+      internalID: 1751410641714265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_67
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9466d1d4b41ab6ed0800000000000000
+      internalID: -2419663029993118135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_68
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df510d7a8a6bb9b80800000000000000
+      internalID: -8386909045561223683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665045452ba3f7b0800000000000000
+      internalID: -5191617768864065950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ef429d947bead30800000000000000
+      internalID: 4444691410064834179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_71
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b0bd0d807252c00800000000000000
+      internalID: 875148621410667303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_72
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974491f97b2d38070800000000000000
+      internalID: 8107555440287106169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9664f83a19f90960800000000000000
+      internalID: 7568854539792836254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953b0839eef232e0800000000000000
+      internalID: -2147373794681211503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e10542fa90f5fe0800000000000000
+      internalID: -1198228328024105462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_76
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f437e4510fe430800000000000000
+      internalID: 3814268873573988540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_77
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d618eae8d152a0800000000000000
+      internalID: -6750375863023904579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_78
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525058319901e35e0800000000000000
+      internalID: -1928085340824468187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e2a133eaf12de0800000000000000
+      internalID: -1359529758791900526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_80
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36330929d0bbb43c0800000000000000
+      internalID: -4374196946092412061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_81
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 102
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d7ef609d2c1f5d0800000000000000
+      internalID: -3030426836862599822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773d13258daa9260800000000000000
+      internalID: 7105182149461751675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c49afa94c67cd2e0800000000000000
+      internalID: -2099672739475712825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f80ec64578792c0800000000000000
+      internalID: -4424919312194564288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba895a05707970330800000000000000
+      internalID: 3677073678444894379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_86
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee19b07522f4bdf0800000000000000
+      internalID: -165241043686973720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_87
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df751f4c153b17820800000000000000
+      internalID: 2914307597663295485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 11
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd461513906fab00800000000000000
+      internalID: 841997840171814348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1fd634e79963a60800000000000000
+      internalID: 7653473384338944489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_90
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb42bdc15547c290800000000000000
+      internalID: -7870245606160970801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_91
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eb558163ce5d3b0800000000000000
+      internalID: -5488220853800419831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bacd832dbb91d00800000000000000
+      internalID: 943992108482341775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548bce31f67404890800000000000000
+      internalID: -7475896839033800635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_94
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c151e133ba0ceb1a0800000000000000
+      internalID: -6791779346498579172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 13
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa430bd47edb5ea0800000000000000
+      internalID: -5882863894757422340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_96
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb02cc1360c9dd1a0800000000000000
+      internalID: -6783093913330900805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_97
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e15f00e0b91497c0800000000000000
+      internalID: -4065596316144676380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd626a6f5d12220800000000000000
+      internalID: 2459482126847237440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6922d0c109225530800000000000000
+      internalID: 3842178519607159146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_100
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918d52973daf1a940800000000000000
+      internalID: 5305797622196721689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eff256fa0128fbc0800000000000000
+      internalID: -3749210358819913757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_102
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40eeff07c7e9f790800000000000000
+      internalID: -7495705262628609970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_103
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 11
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ec7369fd945cc0800000000000000
+      internalID: -3723177297487009546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_104
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9369cf07f7a3730800000000000000
+      internalID: 3979633343986022835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_105
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4465115573b65590800000000000000
+      internalID: -7685758397608270772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_106
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c898f614fa6730800000000000000
+      internalID: 3993272399114586068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_107
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f82b98180638cb0800000000000000
+      internalID: -4862937063152775355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_108
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26100689ec500e490800000000000000
+      internalID: -7719163376435199646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_109
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bf5feabd6dbdb70800000000000000
+      internalID: 8924963325586307917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_110
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd2ebc8cac105f0800000000000000
+      internalID: -792129095677583551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_111
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc38fc98fa1bd90800000000000000
+      internalID: -7083687732450177253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_112
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75fb5243527a0ae0800000000000000
+      internalID: -1582326617146133126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_113
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 43
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56490cfe9eafe9c60800000000000000
+      internalID: 7826969085073200229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_114
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8671a2816be4dad0800000000000000
+      internalID: -2678257074342627701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_115
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cafe98becf79d00800000000000000
+      internalID: 979529532538072123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_116
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 12
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c0658c9db47fcd0800000000000000
+      internalID: -2524465667376804742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_117
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318fd086549bb820800000000000000
+      internalID: 2935102681412239673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_118
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a351687deceec0800000000000000
+      internalID: -3536190506107951845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_119
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a0ea16a48c60d0800000000000000
+      internalID: -3428219367385421765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_120
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 11
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e92809f266864de0800000000000000
+      internalID: -1349243278707906074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_121
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080146af9e4489960800000000000000
+      internalID: 7608907342161383552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_122
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39807d48d5c18c150800000000000000
+      internalID: 5892991300400515219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_123
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72c3925113dc990800000000000000
+      internalID: -7364175848725010477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_124
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b4ebc001296f20800000000000000
+      internalID: 3416298079641711900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_125
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 43
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914fcf75a9ac06c0800000000000000
+      internalID: -4175776226200305258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_126
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f64005e95927f10800000000000000
+      internalID: 2266038069700620154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_127
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 13
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b0186e380a6980800000000000000
+      internalID: -8545008278855174187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_128
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5542cb0a9f88a2a0800000000000000
+      internalID: -6725968151692819108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_129
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010eec1f3f6ef1910800000000000000
+      internalID: 1810419510634536976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_130
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04268caae4e2df90800000000000000
+      internalID: -6930225180001819636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_131
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353720f31471e4450800000000000000
+      internalID: 6074818516366816083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_132
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23de96513527ecd30800000000000000
+      internalID: 4453622782683114802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_133
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c479046a25f5c0800000000000000
+      internalID: -4182390069799894805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_134
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cfe1e26a5c9b730800000000000000
+      internalID: 4015457860306533449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_135
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 11
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1900c1e1a78ba53f0800000000000000
+      internalID: -911213139958431599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_136
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd35347fb56afa40800000000000000
+      internalID: 5402742575947136454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_137
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5f05a261148cd30800000000000000
+      internalID: 4451879795110770114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_138
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a462fd6e6c180d880800000000000000
+      internalID: -8588221798118644150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_139
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cb565383d4d9ee0800000000000000
+      internalID: -1252760217529762772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_140
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e35e3fbdf09ff0800000000000000
+      internalID: -31246199565328108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_141
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa328e2e69ca5f170800000000000000
+      internalID: 8211659259631903663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_142
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb8c1022a205340800000000000000
+      internalID: 4850423124225211996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_143
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55af524fcfc2abc00800000000000000
+      internalID: 917094939062827605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_144
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367cd66510bf0fc0800000000000000
+      internalID: -3526406377241283014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benny_fx_laser_145
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 43
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358b4fea2c414dc10800000000000000
+      internalID: 2077308154516125779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      benny_fx_laser_0: -656661307028377572
+      benny_fx_laser_1: 2695299644686057489
+      benny_fx_laser_10: 9108615603410296867
+      benny_fx_laser_100: 5305797622196721689
+      benny_fx_laser_101: -3749210358819913757
+      benny_fx_laser_102: -7495705262628609970
+      benny_fx_laser_103: -3723177297487009546
+      benny_fx_laser_104: 3979633343986022835
+      benny_fx_laser_105: -7685758397608270772
+      benny_fx_laser_106: 3993272399114586068
+      benny_fx_laser_107: -4862937063152775355
+      benny_fx_laser_108: -7719163376435199646
+      benny_fx_laser_109: 8924963325586307917
+      benny_fx_laser_11: 1709741438796956557
+      benny_fx_laser_110: -792129095677583551
+      benny_fx_laser_111: -7083687732450177253
+      benny_fx_laser_112: -1582326617146133126
+      benny_fx_laser_113: 7826969085073200229
+      benny_fx_laser_114: -2678257074342627701
+      benny_fx_laser_115: 979529532538072123
+      benny_fx_laser_116: -2524465667376804742
+      benny_fx_laser_117: 2935102681412239673
+      benny_fx_laser_118: -3536190506107951845
+      benny_fx_laser_119: -3428219367385421765
+      benny_fx_laser_12: 4314239309311811156
+      benny_fx_laser_120: -1349243278707906074
+      benny_fx_laser_121: 7608907342161383552
+      benny_fx_laser_122: 5892991300400515219
+      benny_fx_laser_123: -7364175848725010477
+      benny_fx_laser_124: 3416298079641711900
+      benny_fx_laser_125: -4175776226200305258
+      benny_fx_laser_126: 2266038069700620154
+      benny_fx_laser_127: -8545008278855174187
+      benny_fx_laser_128: -6725968151692819108
+      benny_fx_laser_129: 1810419510634536976
+      benny_fx_laser_13: 3272914501917905730
+      benny_fx_laser_130: -6930225180001819636
+      benny_fx_laser_131: 6074818516366816083
+      benny_fx_laser_132: 4453622782683114802
+      benny_fx_laser_133: -4182390069799894805
+      benny_fx_laser_134: 4015457860306533449
+      benny_fx_laser_135: -911213139958431599
+      benny_fx_laser_136: 5402742575947136454
+      benny_fx_laser_137: 4451879795110770114
+      benny_fx_laser_138: -8588221798118644150
+      benny_fx_laser_139: -1252760217529762772
+      benny_fx_laser_14: 989782217084260349
+      benny_fx_laser_140: -31246199565328108
+      benny_fx_laser_141: 8211659259631903663
+      benny_fx_laser_142: 4850423124225211996
+      benny_fx_laser_143: 917094939062827605
+      benny_fx_laser_144: -3526406377241283014
+      benny_fx_laser_145: 2077308154516125779
+      benny_fx_laser_15: 2946663451541022658
+      benny_fx_laser_16: -7431449019278819245
+      benny_fx_laser_17: 5481949415261524974
+      benny_fx_laser_18: -5783122876280091481
+      benny_fx_laser_19: -7021473246142908160
+      benny_fx_laser_2: 8558049078950748994
+      benny_fx_laser_20: 6581868894666077232
+      benny_fx_laser_21: 5317680353866381299
+      benny_fx_laser_22: -7370408074820537740
+      benny_fx_laser_23: -5798807749862617471
+      benny_fx_laser_24: 9201928919404456844
+      benny_fx_laser_25: 2989352470672976249
+      benny_fx_laser_26: -625569315685819144
+      benny_fx_laser_27: 3856851960544167571
+      benny_fx_laser_28: 5334061958310286669
+      benny_fx_laser_29: 3638203468406007382
+      benny_fx_laser_3: -4115895956137312309
+      benny_fx_laser_30: -463455156982370023
+      benny_fx_laser_31: -2033004498248502640
+      benny_fx_laser_32: -8941635670931502447
+      benny_fx_laser_33: 7203725556058363575
+      benny_fx_laser_34: 7364527331907788698
+      benny_fx_laser_35: -4910547601681850114
+      benny_fx_laser_36: 4351692393195881350
+      benny_fx_laser_37: -3648244715242178855
+      benny_fx_laser_38: 5463267226955249020
+      benny_fx_laser_39: 1290403853316116995
+      benny_fx_laser_4: 3141262073771719676
+      benny_fx_laser_40: -4717096076585916629
+      benny_fx_laser_41: 7574128474973854554
+      benny_fx_laser_42: 144883080935592428
+      benny_fx_laser_43: 3743905395451698380
+      benny_fx_laser_44: 2809288386251859905
+      benny_fx_laser_45: -5437969369886738511
+      benny_fx_laser_46: 5420024109377345451
+      benny_fx_laser_47: -4570096467371412449
+      benny_fx_laser_48: -146213250849146379
+      benny_fx_laser_49: 2166250356531538911
+      benny_fx_laser_5: -1298463625676927824
+      benny_fx_laser_50: -4679113736059904150
+      benny_fx_laser_51: -4992681379000200127
+      benny_fx_laser_52: -2310777214336647957
+      benny_fx_laser_53: -2700135878166853387
+      benny_fx_laser_54: -6340156868222404256
+      benny_fx_laser_55: -1532670609555732915
+      benny_fx_laser_56: 8467576708978358841
+      benny_fx_laser_57: -6012442028013114039
+      benny_fx_laser_58: 616261944043111879
+      benny_fx_laser_59: -1076119366136060581
+      benny_fx_laser_6: -4621828106058833364
+      benny_fx_laser_60: -273149812312239298
+      benny_fx_laser_61: 3375465638507120151
+      benny_fx_laser_62: -950722154369729550
+      benny_fx_laser_63: 5487440401637242565
+      benny_fx_laser_64: -1847518070857721499
+      benny_fx_laser_65: -7294474485662684204
+      benny_fx_laser_66: 1751410641714265
+      benny_fx_laser_67: -2419663029993118135
+      benny_fx_laser_68: -8386909045561223683
+      benny_fx_laser_69: -5191617768864065950
+      benny_fx_laser_7: -4497365473700065525
+      benny_fx_laser_70: 4444691410064834179
+      benny_fx_laser_71: 875148621410667303
+      benny_fx_laser_72: 8107555440287106169
+      benny_fx_laser_73: 7568854539792836254
+      benny_fx_laser_74: -2147373794681211503
+      benny_fx_laser_75: -1198228328024105462
+      benny_fx_laser_76: 3814268873573988540
+      benny_fx_laser_77: -6750375863023904579
+      benny_fx_laser_78: -1928085340824468187
+      benny_fx_laser_79: -1359529758791900526
+      benny_fx_laser_8: 8624142762572010925
+      benny_fx_laser_80: -4374196946092412061
+      benny_fx_laser_81: -3030426836862599822
+      benny_fx_laser_82: 7105182149461751675
+      benny_fx_laser_83: -2099672739475712825
+      benny_fx_laser_84: -4424919312194564288
+      benny_fx_laser_85: 3677073678444894379
+      benny_fx_laser_86: -165241043686973720
+      benny_fx_laser_87: 2914307597663295485
+      benny_fx_laser_88: 841997840171814348
+      benny_fx_laser_89: 7653473384338944489
+      benny_fx_laser_9: 1126991672648158487
+      benny_fx_laser_90: -7870245606160970801
+      benny_fx_laser_91: -5488220853800419831
+      benny_fx_laser_92: 943992108482341775
+      benny_fx_laser_93: -7475896839033800635
+      benny_fx_laser_94: -6791779346498579172
+      benny_fx_laser_95: -5882863894757422340
+      benny_fx_laser_96: -6783093913330900805
+      benny_fx_laser_97: -4065596316144676380
+      benny_fx_laser_98: 2459482126847237440
+      benny_fx_laser_99: 3842178519607159146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
