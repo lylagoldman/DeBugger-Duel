@@ -23,7 +23,7 @@
 | :--- | :--- | :--- |
 | **Move Left/Right** |`A` `D` | `Left Stick (Left/Right)` |
 | **Jump** | `Space` | `Button A` |
-| **Shoot** | `Left Click` / `Z` | `Right Trigger` |
+| **Shoot** | `Left Click` / `Trackpad` | `Right Trigger` |
 | **Dash** | `LShift` | `Button Y` |
 | **Duck** | `S` | `Left Stick (Down)` |
 | **Duck Attack** | `S + Left Click` / `S + Z` | `Left Stick (Down)` + `Right Trigger` |
