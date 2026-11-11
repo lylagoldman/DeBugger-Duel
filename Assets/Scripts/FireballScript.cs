@@ -30,7 +30,7 @@ public class FireballScript : MonoBehaviour
         } else
         {
             directionMultiplier = 1.0f;
-        }  
+        }
     }
 
     void FixedUpdate()
@@ -61,9 +61,9 @@ public class FireballScript : MonoBehaviour
         }
     }
         
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        if (collider.CompareTag("Enemy"))
         {
             fireballAnimator.SetTrigger("Impact");
             hasCollided = true;

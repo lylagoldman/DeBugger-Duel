@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -42,6 +43,21 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 648814617
+    locked: 0
+  - name: Middleground
+    uniqueID: 123865609
+    locked: 0
+  - name: Characters
+    uniqueID: 2860470327
+    locked: 0
+  - name: FX
+    uniqueID: 2025336859
+    locked: 0
+  - name: Foreground
+    uniqueID: 1762190311
     locked: 0
   m_RenderingLayers:
   - Default

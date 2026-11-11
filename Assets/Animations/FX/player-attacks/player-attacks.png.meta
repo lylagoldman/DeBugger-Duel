@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: df704ceacf8c549ab830ef0647c5b8ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 292493968864231420
+    second: 3DS - Shantae and the Pirate's Curse - Miscellaneous - FX_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3-fireball-spawn1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3807
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb81907b52f0400800000000000000
+      internalID: 292493968864231420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-fireball-spawn2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3807
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e394fb7fcccc4e77a934bbe42e1a180
+      internalID: 959122653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-fireball-spawn3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3807
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5efe435dab43e4af8a49fae177043
+      internalID: 1122558947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-fireball1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3768
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a0f97bfa6ab4b1da5a44461492148a
+      internalID: -988909083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-fireball2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3768
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe5e20278f15455b9a8b52e2f0fe200
+      internalID: 818840927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-fireball3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3768
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c17e1d9725042f49833fbe66ad728c
+      internalID: -723184579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92295c13af73b45939b9f9ece471afc9
+      internalID: 1656795838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca26f817bfca4f3cb48f907da5e1f1b
+      internalID: -256126012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e40ab5d76e43c7af02fe735942bca
+      internalID: 1179583018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3a8e23000743f292d626b229bb4bf
+      internalID: 1719062646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf986a1376b4e83a4d8dc0e3e8cdfb
+      internalID: -1614635245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3666
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e71e470b4414c328811955392caf4a
+      internalID: -1160813644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf188221964be4527a0ee7ee44f582b4
+      internalID: -2047007135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657c42557485434aba0eafdd331bc0d
+      internalID: -1442299202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31de3843de04e9ea501e730cc8f6a4
+      internalID: 1990550637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68466f13f3e4429cb6e5b772b7e314d
+      internalID: 1516130369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3450c3b9144d483f9d518e4cdcfa9cf
+      internalID: 1956629728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-fireball-impact11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3707
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a67647ba053480ebdf8ac837ff2dd9
+      internalID: -243623178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bullet1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2662
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdd55ca68e2c4c2785db5efe0a2bb3e
+      internalID: -1611514636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bullet2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2662
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6245c3eed35da45bcb57ac8e7eaf3917
+      internalID: 1597670504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bullet3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2662
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24448fcbb4d6f4af1a08c320e6ef2b9f
+      internalID: 1490409890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bullet-impact1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13d6ffc2e8943beaf0c4c8db18aae8
+      internalID: 1822402699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bullet-impact2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13944b79bba4f279797b62a6f42153
+      internalID: -78887130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-bullet-impact3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2632
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7b70bb7ced4f77a5be617d165327d
+      internalID: -2000562233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-impact1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2906
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b56f5667ba54371b19395458e7be61
+      internalID: 1426979964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-impact2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2906
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74664a1a00fe24450a0552cf6f73d47b
+      internalID: 1574134533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-impact3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2906
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5182c3c66645e99c8dddeb03664f0
+      internalID: -1969636936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-impact4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2906
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e04fa5eae814c72ba40bc945ecf294
+      internalID: 555983823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-impact5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2906
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ade622db3d94eafb7c44348b6b3045
+      internalID: -768017437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-impact6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2906
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d34423edef4de985638716662b12c
+      internalID: 1574317855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-impact-small1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2847
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ca58507b34459793a906085e18c0f
+      internalID: -1967176537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-impact-small2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2847
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d41caa44422249f79046b3c084345f8
+      internalID: -944438655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-impact-small3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2847
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229349c95c91b4a8fa2857167d57937f
+      internalID: -306714245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-impact-small4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2847
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc393a23f0ec54fe6aff75aeb1b0fe6a
+      internalID: 876031541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-impact-small5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2847
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245601d2a78e94589994904867687b1e
+      internalID: -893298925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7d99dbce7e7634c09bc5c094d96962a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1-bullet1: -1611514636
+      1-bullet2: 1597670504
+      1-bullet3: 1490409890
+      2-bullet-impact1: 1822402699
+      2-bullet-impact2: -78887130
+      2-bullet-impact3: -2000562233
+      3-fireball-spawn1: 292493968864231420
+      3-fireball-spawn2: 959122653
+      3-fireball-spawn3: 1122558947
+      4-fireball1: -988909083
+      4-fireball2: 818840927
+      4-fireball3: -723184579
+      5-fireball-impact1: 1656795838
+      5-fireball-impact10: 1956629728
+      5-fireball-impact11: -243623178
+      5-fireball-impact12: -1160813644
+      5-fireball-impact2: -256126012
+      5-fireball-impact3: 1179583018
+      5-fireball-impact4: 1719062646
+      5-fireball-impact5: -1614635245
+      5-fireball-impact6: -2047007135
+      5-fireball-impact7: -1442299202
+      5-fireball-impact8: 1990550637
+      5-fireball-impact9: 1516130369
+      6-impact1: 1426979964
+      6-impact2: 1574134533
+      6-impact3: -1969636936
+      6-impact4: 555983823
+      6-impact5: -768017437
+      6-impact6: 1574317855
+      7-impact-small1: -1967176537
+      7-impact-small2: -944438655
+      7-impact-small3: -306714245
+      7-impact-small4: 876031541
+      7-impact-small5: -893298925
+      Fireball-Create 1: 292493968864231420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

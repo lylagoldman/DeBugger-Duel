@@ -6,7 +6,7 @@ public class PlayerShooting : MonoBehaviour
     public GameObject bullet;
     public GameObject fireball;
 
-    [SerializeField] float fireRate = 0.8f;
+    [SerializeField] float fireRate = 0.08f;
     [SerializeField] Transform standardFirePoint;
     [SerializeField] Transform duckFirePoint;
 

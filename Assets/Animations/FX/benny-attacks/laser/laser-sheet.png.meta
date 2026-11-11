@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 6cd3a918faf444b87805920a3cd94d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -656661307028377572
+    second: benny_fx_laser_0
+  - first:
+      213: 2695299644686057489
+    second: benny_fx_laser_1
+  - first:
+      213: 8558049078950748994
+    second: benny_fx_laser_2
+  - first:
+      213: -4115895956137312309
+    second: benny_fx_laser_3
+  - first:
+      213: 3141262073771719676
+    second: benny_fx_laser_4
+  - first:
+      213: -1298463625676927824
+    second: benny_fx_laser_5
+  - first:
+      213: -4621828106058833364
+    second: benny_fx_laser_6
+  - first:
+      213: -4497365473700065525
+    second: benny_fx_laser_7
+  - first:
+      213: 8624142762572010925
+    second: benny_fx_laser_8
+  - first:
+      213: 1126991672648158487
+    second: benny_fx_laser_9
+  - first:
+      213: 9108615603410296867
+    second: benny_fx_laser_10
+  - first:
+      213: 1709741438796956557
+    second: benny_fx_laser_11
+  - first:
+      213: 4314239309311811156
+    second: benny_fx_laser_12
+  - first:
+      213: 3272914501917905730
+    second: benny_fx_laser_13
+  - first:
+      213: 989782217084260349
+    second: benny_fx_laser_14
+  - first:
+      213: 2946663451541022658
+    second: benny_fx_laser_15
+  - first:
+      213: -7431449019278819245
+    second: benny_fx_laser_16
+  - first:
+      213: 5481949415261524974
+    second: benny_fx_laser_17
+  - first:
+      213: -5783122876280091481
+    second: benny_fx_laser_18
+  - first:
+      213: -7021473246142908160
+    second: benny_fx_laser_19
+  - first:
+      213: 6581868894666077232
+    second: benny_fx_laser_20
+  - first:
+      213: 5317680353866381299
+    second: benny_fx_laser_21
+  - first:
+      213: -7370408074820537740
+    second: benny_fx_laser_22
+  - first:
+      213: -5798807749862617471
+    second: benny_fx_laser_23
+  - first:
+      213: 9201928919404456844
+    second: benny_fx_laser_24
+  - first:
+      213: 2989352470672976249
+    second: benny_fx_laser_25
+  - first:
+      213: -625569315685819144
+    second: benny_fx_laser_26
+  - first:
+      213: 3856851960544167571
+    second: benny_fx_laser_27
+  - first:
+      213: 5334061958310286669
+    second: benny_fx_laser_28
+  - first:
+      213: 3638203468406007382
+    second: benny_fx_laser_29
+  - first:
+      213: -463455156982370023
+    second: benny_fx_laser_30
+  - first:
+      213: -2033004498248502640
+    second: benny_fx_laser_31
+  - first:
+      213: -8941635670931502447
+    second: benny_fx_laser_32
+  - first:
+      213: 7203725556058363575
+    second: benny_fx_laser_33
+  - first:
+      213: 7364527331907788698
+    second: benny_fx_laser_34
+  - first:
+      213: -4910547601681850114
+    second: benny_fx_laser_35
+  - first:
+      213: 4351692393195881350
+    second: benny_fx_laser_36
+  - first:
+      213: -3648244715242178855
+    second: benny_fx_laser_37
+  - first:
+      213: 5463267226955249020
+    second: benny_fx_laser_38
+  - first:
+      213: 1290403853316116995
+    second: benny_fx_laser_39
+  - first:
+      213: -4717096076585916629
+    second: benny_fx_laser_40
+  - first:
+      213: 7574128474973854554
+    second: benny_fx_laser_41
+  - first:
+      213: 144883080935592428
+    second: benny_fx_laser_42
+  - first:
+      213: 3743905395451698380
+    second: benny_fx_laser_43
+  - first:
+      213: 2809288386251859905
+    second: benny_fx_laser_44
+  - first:
+      213: -5437969369886738511
+    second: benny_fx_laser_45
+  - first:
+      213: 5420024109377345451
+    second: benny_fx_laser_46
+  - first:
+      213: -4570096467371412449
+    second: benny_fx_laser_47
+  - first:
+      213: -146213250849146379
+    second: benny_fx_laser_48
+  - first:
+      213: 2166250356531538911
+    second: benny_fx_laser_49
+  - first:
+      213: -4679113736059904150
+    second: benny_fx_laser_50
+  - first:
+      213: -4992681379000200127
+    second: benny_fx_laser_51
+  - first:
+      213: -2310777214336647957
+    second: benny_fx_laser_52
+  - first:
+      213: -2700135878166853387
+    second: benny_fx_laser_53
+  - first:
+      213: -6340156868222404256
+    second: benny_fx_laser_54
+  - first:
+      213: -1532670609555732915
+    second: benny_fx_laser_55
+  - first:
+      213: 8467576708978358841
+    second: benny_fx_laser_56
+  - first:
+      213: -6012442028013114039
+    second: benny_fx_laser_57
+  - first:
+      213: 616261944043111879
+    second: benny_fx_laser_58
+  - first:
+      213: -1076119366136060581
+    second: benny_fx_laser_59
+  - first:
+      213: -273149812312239298
+    second: benny_fx_laser_60
+  - first:
+      213: 3375465638507120151
+    second: benny_fx_laser_61
+  - first:
+      213: -950722154369729550
+    second: benny_fx_laser_62
+  - first:
+      213: 5487440401637242565
+    second: benny_fx_laser_63
+  - first:
+      213: -1847518070857721499
+    second: benny_fx_laser_64
+  - first:
+      213: -7294474485662684204
+    second: benny_fx_laser_65
+  - first:
+      213: 1751410641714265
+    second: benny_fx_laser_66
+  - first:
+      213: -2419663029993118135
+    second: benny_fx_laser_67
+  - first:
+      213: -8386909045561223683
+    second: benny_fx_laser_68
+  - first:
+      213: -5191617768864065950
+    second: benny_fx_laser_69
+  - first:
+      213: 4444691410064834179
+    second: benny_fx_laser_70
+  - first:
+      213: 875148621410667303
+    second: benny_fx_laser_71
+  - first:
+      213: 8107555440287106169
+    second: benny_fx_laser_72
+  - first:
+      213: 7568854539792836254
+    second: benny_fx_laser_73
+  - first:
+      213: -2147373794681211503
+    second: benny_fx_laser_74
+  - first:
+      213: -1198228328024105462
+    second: benny_fx_laser_75
+  - first:
+      213: 3814268873573988540
+    second: benny_fx_laser_76
+  - first:
+      213: -6750375863023904579
+    second: benny_fx_laser_77
+  - first:
+      213: -1928085340824468187
+    second: benny_fx_laser_78
+  - first:
+      213: -1359529758791900526
+    second: benny_fx_laser_79
+  - first:
+      213: -4374196946092412061
+    second: benny_fx_laser_80
+  - first:
+      213: -3030426836862599822
+    second: benny_fx_laser_81
+  - first:
+      213: 7105182149461751675
+    second: benny_fx_laser_82
+  - first:
+      213: -2099672739475712825
+    second: benny_fx_laser_83
+  - first:
+      213: -4424919312194564288
+    second: benny_fx_laser_84
+  - first:
+      213: 3677073678444894379
+    second: benny_fx_laser_85
+  - first:
+      213: -165241043686973720
+    second: benny_fx_laser_86
+  - first:
+      213: 2914307597663295485
+    second: benny_fx_laser_87
+  - first:
+      213: 841997840171814348
+    second: benny_fx_laser_88
+  - first:
+      213: 7653473384338944489
+    second: benny_fx_laser_89
+  - first:
+      213: -7870245606160970801
+    second: benny_fx_laser_90
+  - first:
+      213: -5488220853800419831
+    second: benny_fx_laser_91
+  - first:
+      213: 943992108482341775
+    second: benny_fx_laser_92
+  - first:
+      213: -7475896839033800635
+    second: benny_fx_laser_93
+  - first:
+      213: -6791779346498579172
+    second: benny_fx_laser_94
+  - first:
+      213: -5882863894757422340
+    second: benny_fx_laser_95
+  - first:
+      213: -6783093913330900805
+    second: benny_fx_laser_96
+  - first:
+      213: -4065596316144676380
+    second: benny_fx_laser_97
+  - first:
+      213: 2459482126847237440
+    second: benny_fx_laser_98
+  - first:
+      213: 3842178519607159146
+    second: benny_fx_laser_99
+  - first:
+      213: 5305797622196721689
+    second: benny_fx_laser_100
+  - first:
+      213: -3749210358819913757
+    second: benny_fx_laser_101
+  - first:
+      213: -7495705262628609970
+    second: benny_fx_laser_102
+  - first:
+      213: -3723177297487009546
+    second: benny_fx_laser_103
+  - first:
+      213: 3979633343986022835
+    second: benny_fx_laser_104
+  - first:
+      213: -7685758397608270772
+    second: benny_fx_laser_105
+  - first:
+      213: 3993272399114586068
+    second: benny_fx_laser_106
+  - first:
+      213: -4862937063152775355
+    second: benny_fx_laser_107
+  - first:
+      213: -7719163376435199646
+    second: benny_fx_laser_108
+  - first:
+      213: 8924963325586307917
+    second: benny_fx_laser_109
+  - first:
+      213: -792129095677583551
+    second: benny_fx_laser_110
+  - first:
+      213: -7083687732450177253
+    second: benny_fx_laser_111
+  - first:
+      213: -1582326617146133126
+    second: benny_fx_laser_112
+  - first:
+      213: 7826969085073200229
+    second: benny_fx_laser_113
+  - first:
+      213: -2678257074342627701
+    second: benny_fx_laser_114
+  - first:
+      213: 979529532538072123
+    second: benny_fx_laser_115
+  - first:
+      213: -2524465667376804742
+    second: benny_fx_laser_116
+  - first:
+      213: 2935102681412239673
+    second: benny_fx_laser_117
+  - first:
+      213: -3536190506107951845
+    second: benny_fx_laser_118
+  - first:
+      213: -3428219367385421765
+    second: benny_fx_laser_119
+  - first:
+      213: -1349243278707906074
+    second: benny_fx_laser_120
+  - first:
+      213: 7608907342161383552
+    second: benny_fx_laser_121
+  - first:
+      213: 5892991300400515219
+    second: benny_fx_laser_122
+  - first:
+      213: -7364175848725010477
+    second: benny_fx_laser_123
+  - first:
+      213: 3416298079641711900
+    second: benny_fx_laser_124
+  - first:
+      213: -4175776226200305258
+    second: benny_fx_laser_125
+  - first:
+      213: 2266038069700620154
+    second: benny_fx_laser_126
+  - first:
+      213: -8545008278855174187
+    second: benny_fx_laser_127
+  - first:
+      213: -6725968151692819108
+    second: benny_fx_laser_128
+  - first:
+      213: 1810419510634536976
+    second: benny_fx_laser_129
+  - first:
+      213: -6930225180001819636
+    second: benny_fx_laser_130
+  - first:
+      213: 6074818516366816083
+    second: benny_fx_laser_131
+  - first:
+      213: 4453622782683114802
+    second: benny_fx_laser_132
+  - first:
+      213: -4182390069799894805
+    second: benny_fx_laser_133
+  - first:
+      213: 4015457860306533449
+    second: benny_fx_laser_134
+  - first:
+      213: -911213139958431599
+    second: benny_fx_laser_135
+  - first:
+      213: 5402742575947136454
+    second: benny_fx_laser_136
+  - first:
+      213: 4451879795110770114
+    second: benny_fx_laser_137
+  - first:
+      213: -8588221798118644150
+    second: benny_fx_laser_138
+  - first:
+      213: -1252760217529762772
+    second: benny_fx_laser_139
+  - first:
+      213: -31246199565328108
+    second: benny_fx_laser_140
+  - first:
+      213: 8211659259631903663
+    second: benny_fx_laser_141
+  - first:
+      213: 4850423124225211996
+    second: benny_fx_laser_142
+  - first:
+      213: 917094939062827605
+    second: benny_fx_laser_143
+  - first:
+      213: -3526406377241283014
+    second: benny_fx_laser_144
+  - first:
+      213: 2077308154516125779
+    second: benny_fx_laser_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: g-beam1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aaaa139ebb440558fb9a3d8a548753
+      internalID: 1721169938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c2a1c92401435bb689f655de799a6
+      internalID: 837325930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac1a3beda2e4c27ac7bb34db7388e8
+      internalID: -325049964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b2c99daef84d6aa54384f39d37b72
+      internalID: -1431916594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f40ec7c149d4a39a21933a8b0af5d0
+      internalID: 1306020033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090640d69940f4cfc9094ff9ee4fd1c3
+      internalID: -589342341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd9d8715b4e47e6b7a29e33518bfc1
+      internalID: -89185207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebfef1e5d35420fb3cc1c2f9bd0ae8
+      internalID: 2033127144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c68c9dea97842b0a053a621c03bd78
+      internalID: -1561077800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919756e368bc4cbb84606be2785d1ea
+      internalID: 1171389964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ece447840e4bd78f4e0c6e2f337a8
+      internalID: 1583925315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336d38d874de84c5f95aa3614c488e7a
+      internalID: -1207065081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990bb36215624a5e87f1acfc0331c51
+      internalID: -159273617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0340877130a4b45b947b4e8434c6af
+      internalID: -464436479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d155386af29eb4ddc80467c7c2fce5d1
+      internalID: 2055736582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3a7a0e51eb4181b05850fed56f5a9
+      internalID: -1112000179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d692352a2e5e4b01accaa367ea4601c
+      internalID: 2005886619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed282c7688e4de5831ffea77830bf0
+      internalID: -1546373532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761055b4df5f438ca28077d39bbbd78
+      internalID: 1126968779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b212ab462ce74d2c938661ad0056a75
+      internalID: 499062871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831d5f743dc04a819f8dc7fa6ff162d
+      internalID: 1406105796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7c959e96cd4494bf28743483c8440
+      internalID: -1001070928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a44e051edd4127943c771813a4291
+      internalID: -2044159828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4795236c1f74d4afa81fa5e6ed86ab0c
+      internalID: -1537193215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a96ca579c4d4ee5bde045e99825f15
+      internalID: 807584810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d1f7fa50254fe29a94bd0dbf4e165
+      internalID: -955828912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dcc02ae622d4ed8b6944f44ef46188
+      internalID: 1098987846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7bd82ff8e040d3994e80c49f9c207
+      internalID: -260806697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8b9870dd9442fe8135526bec075b5
+      internalID: 2012677561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c226a0803d2475f9fa59eb400e7855
+      internalID: -1939395819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768bb30469484b0190bbab975fb7ad9
+      internalID: 231067886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f4ec325ee1427b8939d0376967483
+      internalID: -1486135682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c265af62238ba44d788aec30d5939280
+      internalID: 1366128544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d21d070686284eff961ef13ae6f3aa7
+      internalID: 1702722448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34323c4c41b42ecb59d88a5d0d0e1a
+      internalID: -2053656660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be82c2cfb114b7e98b5dcbd2b073da
+      internalID: 917120456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03645d4ff374654943e80eb756a351
+      internalID: 1067555790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b504cda96b41659bb3a118796450f
+      internalID: -418306729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: g-beam20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05927d351f8ec4afea6a82237b1efc97
+      internalID: -1575681200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-beam20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9323251a8f41e384110cb079b0b47
+      internalID: -460808582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":20.0},"gridSpriteSize":{"x":384.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      g-beam1: 1721169938
+      g-beam10: 1126968779
+      g-beam11: 1406105796
+      g-beam12: -2044159828
+      g-beam13: 807584810
+      g-beam14: 1098987846
+      g-beam15: 2012677561
+      g-beam16: 231067886
+      g-beam17: 1366128544
+      g-beam18: -2053656660
+      g-beam19: 1067555790
+      g-beam2: -325049964
+      g-beam20: -1575681200
+      g-beam3: 1306020033
+      g-beam4: -89185207
+      g-beam5: -1561077800
+      g-beam6: 1583925315
+      g-beam7: -159273617
+      g-beam8: 2055736582
+      g-beam9: 2005886619
+      r-beam1: 837325930
+      r-beam10: 499062871
+      r-beam11: -1001070928
+      r-beam12: -1537193215
+      r-beam13: -955828912
+      r-beam14: -260806697
+      r-beam15: -1939395819
+      r-beam16: -1486135682
+      r-beam17: 1702722448
+      r-beam18: 917120456
+      r-beam19: -418306729
+      r-beam2: -1431916594
+      r-beam20: -460808582
+      r-beam3: -589342341
+      r-beam4: 2033127144
+      r-beam5: 1171389964
+      r-beam6: -1207065081
+      r-beam7: -464436479
+      r-beam8: -1112000179
+      r-beam9: -1546373532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

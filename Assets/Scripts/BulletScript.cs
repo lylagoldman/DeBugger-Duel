@@ -45,9 +45,9 @@ public class BulletScript : MonoBehaviour
         }
     }
         
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        if (collider.CompareTag("Enemy"))
         {
             bulletAnimator.SetTrigger("Impact");
             hasCollided = true;
