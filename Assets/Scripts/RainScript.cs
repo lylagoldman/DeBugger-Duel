@@ -1,13 +1,14 @@
-using UnityEditor.Animations;
 using UnityEngine;
 
 public class RainScript : MonoBehaviour
 {
     [SerializeField] GameObject rainArrow;
     [SerializeField] GameObject rain;
-    private AnimatorController rainAnimator;
+
     private Transform arrowTransform;
     private Vector3 rainPosition;
+    private FxColor color;
+    private bool colorAssigned;
     
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -15,7 +16,16 @@ public class RainScript : MonoBehaviour
     {
         arrowTransform = rainArrow.GetComponent<Transform>();
         rainPosition = rain.GetComponent<Transform>().position;
-        rainAnimator = rain.GetComponent<AnimatorController>();
+        if (!colorAssigned) SetColor(AttackColor.Roll());
+    }
+    
+    // Called by BennyAttacks right after the arrow is spawned
+    public void SetColor(FxColor c)
+    {
+        color = c;
+        colorAssigned = true;
+        var arrowColorizer = rainArrow.GetComponent<FxColorizer>();
+        if (arrowColorizer != null) arrowColorizer.SetColor(c);
     }
 
     // Update is called once per frame
@@ -24,27 +34,23 @@ public class RainScript : MonoBehaviour
         
     }
 
+    // Animation Event on the arrow
     public void SpawnRain()
     {
-        float xSpawnPosition = arrowTransform.position.x;
-        rainPosition.x = xSpawnPosition;
-        PickRainType();
-        Instantiate(rain, rainPosition, arrowTransform.rotation);
+        rainPosition.x = arrowTransform.position.x;
+        GameObject spawned = Instantiate(rain, rainPosition, arrowTransform.rotation);
+
+        spawned.GetComponent<FxColorizer>().SetColor(color);
+        PickRainType(spawned.GetComponent<Animator>());
     }
 
-    public void PickRainType()
+    void PickRainType(Animator anim)
     {
-        int randomNum = Random.Range(0,3);
-
-        if (randomNum == 0)
+        switch (Random.Range(0, 3))
         {
-            rainAnimator.SetTrigger("0bit");
-        } else if (randomNum == 1)
-        {
-            rainAnimator.SetTrigger("1bit");
-        } else
-        {
-            rainAnimator.SetTrigger("column");
+            case 0: anim.SetTrigger("0bit"); break;
+            case 1: anim.SetTrigger("1bit"); break;
+            default: anim.SetTrigger("column"); break;
         }
     }
 }

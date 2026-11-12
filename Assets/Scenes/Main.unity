@@ -469,7 +469,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 335157765}
   - {fileID: 1962361136}
@@ -599,7 +599,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5, z: -20}
+  m_LocalPosition: {x: 0, y: 5, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -966,6 +966,8 @@ GameObject:
   - component: {fileID: 1718582161}
   - component: {fileID: 1718582160}
   - component: {fileID: 1718582162}
+  - component: {fileID: 1718582163}
+  - component: {fileID: 1718582164}
   m_Layer: 0
   m_Name: Benny
   m_TagString: Enemy
@@ -1094,6 +1096,58 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.5279546, y: 2.8027081}
   m_EdgeRadius: 0
+--- !u!95 &1718582163
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1718582159}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d33012be13c714c658ae42f0c8cbc5f6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1718582164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1718582159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ae50dc34bb9c45f791bf062592191e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  keyPrefab: {fileID: 6925103395370913864, guid: 696c5ad3d87ec488286b5d8e22dce9b9, type: 3}
+  binaryPrefab: {fileID: 7365973669687289807, guid: f3463a9ac5ac34ec2900c7270b289524, type: 3}
+  laserPrefab: {fileID: 1284821477457101738, guid: b36d591dfdcc94ec683f09ad44312f1a, type: 3}
+  rainArrowPrefab: {fileID: 2751691240812233711, guid: 5406a2ce90c7a4a368ca532181502568, type: 3}
+  keyTypes:
+  - {fileID: 11400000, guid: 2e041e891e2524df28872a29ece425a9, type: 2}
+  - {fileID: 11400000, guid: 52aca5fe8960246e49b0145bf08dcb48, type: 2}
+  - {fileID: 11400000, guid: 7783c184f438a4aa6ac8097b541b3b83, type: 2}
+  - {fileID: 11400000, guid: ffa5ab58f60794e00b192cec8150a14a, type: 2}
+  - {fileID: 11400000, guid: b82462fe870f64e86a052da4244ef3fb, type: 2}
+  - {fileID: 11400000, guid: 7df9e28822f57470a9ded1a71e9d10bf, type: 2}
+  - {fileID: 11400000, guid: c3f77732339c24a25a93708826755f04, type: 2}
+  rainSpawnY: 3.5
+  rainSpawnCount: 15
+  rainMinX: -12
+  rainMaxX: 12
+  redChance: 0.1
+  pos: {x: 6.44, y: 2.43}
 --- !u!1 &1773742694
 GameObject:
   m_ObjectHideFlags: 0
@@ -1253,6 +1307,6 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
+  - {fileID: 437480555}
   - {fileID: 1664595586}
   - {fileID: 1718582161}
-  - {fileID: 437480555}

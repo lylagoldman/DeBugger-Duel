@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4713086729309323272}
   - component: {fileID: -1764742074250374}
   - component: {fileID: 6184352981222406294}
+  - component: {fileID: -3149659925456392557}
   m_Layer: 0
   m_Name: Laser
   m_TagString: Obstacle
@@ -160,3 +161,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d45bfd4cbc0f246869aaf6eac4dcf526, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LaserScript
+--- !u!114 &-3149659925456392557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1284821477457101738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea1bf59e58a549f2a360f967bf4f7f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FxColorizer
+  library: {fileID: 9020842062707370390}
+  resolver: {fileID: 4713086729309323272}
+  purple: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
+  green: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
+  red: {fileID: 7108339969198208228, guid: 99615f40624fc40979731b54cc7c486d, type: 3}
+  fallback: 1

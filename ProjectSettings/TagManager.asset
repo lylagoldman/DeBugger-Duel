@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - Hazard
+  - Parryable
   - Obstacle
   layers:
   - Default

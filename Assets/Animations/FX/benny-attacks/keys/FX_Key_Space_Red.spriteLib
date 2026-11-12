@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteLibrarySourceAsset
+  m_Library:
+  - m_Name: Tumble
+    m_Hash: 559940881
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: 0
+      m_Hash: 886824737
+      m_Sprite: {fileID: 1507509250, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1507509250, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+    - m_Name: 1
+      m_Hash: 64810935
+      m_Sprite: {fileID: -1847234027, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1847234027, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: -243372672, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -243372672, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+    - m_Name: 3
+      m_Hash: 768773787
+      m_Sprite: {fileID: 862351473, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 862351473, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: Break
+    m_Hash: 230522846
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: 0
+      m_Hash: 886824737
+      m_Sprite: {fileID: -1614393102, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1614393102, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+    - m_Name: 1
+      m_Hash: 64810935
+      m_Sprite: {fileID: 1682922833, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1682922833, guid: bc530a12f8d1f4027a9d5aff7131d3ee, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 639300336142228700
+  m_Version: 1

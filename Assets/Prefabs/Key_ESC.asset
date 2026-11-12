@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1d59326932dd48e3a85d1a59233d30c, type: 3}
+  m_Name: Key_ESC
+  m_EditorClassIdentifier: Assembly-CSharp::KeyType
+  purple: {fileID: 7108339969198208228, guid: 27523814be2e947d2b650dfbccd82d7b, type: 3}
+  red: {fileID: 7108339969198208228, guid: 61e641d78b75a4e97a6eb6cc8441b72c, type: 3}
+  colliderSize: {x: 0.213, y: 0.152}
+  bounciness: 0.5

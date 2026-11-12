@@ -1,2 +1,13 @@
 fileFormatVersion: 2
 guid: 48e94dd3fadda403bb112a2b07db88fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rainArrow: {fileID: 2751691240812233711, guid: 5406a2ce90c7a4a368ca532181502568, type: 3}
+  - rain: {fileID: 7365973669687289807, guid: f3463a9ac5ac34ec2900c7270b289524, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

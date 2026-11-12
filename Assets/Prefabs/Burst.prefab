@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: -6012280508636248071}
   - component: {fileID: 7412893902624925354}
   - component: {fileID: -5409361651891602538}
+  - component: {fileID: 572401444982354383}
   m_Layer: 0
   m_Name: Burst
   m_TagString: Obstacle
@@ -147,3 +148,21 @@ MonoBehaviour:
   m_labelHash: 1.2985474e-36
   m_SpriteKey: 0
   m_SpriteHash: 523707184
+--- !u!114 &572401444982354383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6100099434875304932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea1bf59e58a549f2a360f967bf4f7f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FxColorizer
+  library: {fileID: -6012280508636248071}
+  resolver: {fileID: -5409361651891602538}
+  purple: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
+  green: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
+  red: {fileID: 7108339969198208228, guid: 99615f40624fc40979731b54cc7c486d, type: 3}
+  fallback: 1

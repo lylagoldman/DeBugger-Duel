@@ -1,2 +1,15 @@
 fileFormatVersion: 2
 guid: 3c41821697d7142959e40f4daf65a404
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 934844800863051615, guid: 762c547ef2827424b8acbdd821543f00, type: 3}
+  - fireball: {fileID: 5306819010144264585, guid: 685cfe9691e6d4fef916f843d9754602, type: 3}
+  - standardFirePoint: {instanceID: 0}
+  - duckFirePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

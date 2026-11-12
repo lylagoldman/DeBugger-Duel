@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: -1833287943903562525}
   - component: {fileID: -6826642253605323642}
   - component: {fileID: -8469809252828424940}
+  - component: {fileID: 2510059085954879624}
   m_Layer: 0
   m_Name: Rain
   m_TagString: Untagged
@@ -184,7 +185,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -222,3 +223,21 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2510059085954879624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7365973669687289807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea1bf59e58a549f2a360f967bf4f7f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FxColorizer
+  library: {fileID: 2371091299634411070}
+  resolver: {fileID: 4453423034741639427}
+  purple: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
+  green: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
+  red: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
+  fallback: 1

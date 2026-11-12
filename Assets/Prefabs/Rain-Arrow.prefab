@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 1744294831668732423}
   - component: {fileID: 1238036014588161020}
   - component: {fileID: 2008494044813558204}
-  - component: {fileID: 5952841165672613469}
   - component: {fileID: 1011522001103470741}
-  - component: {fileID: -7686903752973205720}
+  - component: {fileID: 4272135061422459142}
+  - component: {fileID: 7535933828308570152}
   m_Layer: 0
   m_Name: Rain-Arrow
   m_TagString: Obstacle
@@ -127,18 +127,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
---- !u!114 &5952841165672613469
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2751691240812233711}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d45bfd4cbc0f246869aaf6eac4dcf526, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LaserScript
 --- !u!95 &1011522001103470741
 Animator:
   serializedVersion: 7
@@ -161,7 +149,25 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &-7686903752973205720
+--- !u!114 &4272135061422459142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2751691240812233711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea1bf59e58a549f2a360f967bf4f7f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FxColorizer
+  library: {fileID: 1744294831668732423}
+  resolver: {fileID: 1238036014588161020}
+  purple: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
+  green: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
+  red: {fileID: 7108339969198208228, guid: 99615f40624fc40979731b54cc7c486d, type: 3}
+  fallback: 1
+--- !u!114 &7535933828308570152
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -175,4 +181,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RainScript
   rainArrow: {fileID: 2751691240812233711}
   rain: {fileID: 7365973669687289807, guid: f3463a9ac5ac34ec2900c7270b289524, type: 3}
-  rainAnimator: {fileID: -8469809252828424940, guid: f3463a9ac5ac34ec2900c7270b289524, type: 3}
