@@ -5,26 +5,35 @@ public class FxColorizer : MonoBehaviour
 {
     [SerializeField] SpriteLibrary library;
     [SerializeField] SpriteResolver resolver;
+
+    [Header("Leave a slot empty if this effect has no art for that color")]
     [SerializeField] SpriteLibraryAsset purple, green, red;
-    [SerializeField] FxColor fallback = FxColor.Purple;
 
     public FxColor Color { get; private set; }
-    public bool Parryable => Color == FxColor.Red;
 
     SpriteLibraryAsset Get(FxColor c) => c switch {
         FxColor.Green => green, FxColor.Red => red, _ => purple };
 
-    public void SetColor(FxColor c)
+    void FindComponents()
     {
-        if (Get(c) == null) c = fallback;
-        Color = c;
-        library.spriteLibraryAsset = Get(c);
-        resolver.ResolveSpriteToSpriteRenderer();
-        gameObject.tag = Parryable ? "Parryable" : "Hazard";
+        if (library == null)  library  = GetComponent<SpriteLibrary>();
+        if (resolver == null) resolver = GetComponent<SpriteResolver>();
     }
 
-    public void EndOfLife()
+    public void SetColor(FxColor c)
     {
-        Destroy(gameObject);
+        FindComponents();
+
+        if (Get(c) == null)
+        {
+            c = green != null ? FxColor.Green : purple != null ? FxColor.Purple : FxColor.Red;
+        }
+        
+        Color = c;
+        if (library == null) { Debug.LogWarning($"{name}: no Sprite Library component"); return; }
+        if (Get(c) == null)  { Debug.LogWarning($"{name}: no color libraries assigned"); return; }
+
+        library.spriteLibraryAsset = Get(c);
+        if (resolver != null) resolver.ResolveSpriteToSpriteRenderer();
     }
 }

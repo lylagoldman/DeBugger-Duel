@@ -9,23 +9,23 @@ public class PlayerShooting : MonoBehaviour
     [SerializeField] float fireRate = 0.08f;
     [SerializeField] Transform standardFirePoint;
     [SerializeField] Transform duckFirePoint;
+    
+    public bool CanFireball => playerAnimator.GetBool("IsDucking") && SpecialMeter.Instance != null && SpecialMeter.Instance.HasCharge;
 
     private Animator playerAnimator;
     private float nextFireTime = 0f;
-    private bool isValidAttack;
     private bool isHoldingShoot;
 
 
     void Start()
     {
         playerAnimator = GetComponent<Animator>();
-        isValidAttack = playerAnimator.GetBool("IsDucking") == false;
     }
 
     void Update()
     {
         // Shoot standard bullets, recalculate time allowed before next bullet
-        if (isHoldingShoot && isValidAttack && Time.time >= nextFireTime)
+        if (isHoldingShoot && !playerAnimator.GetBool("IsDucking") && Time.time >= nextFireTime)
         {
             nextFireTime = Time.time + fireRate;
             Instantiate(bullet, standardFirePoint.position, standardFirePoint.rotation);
@@ -35,8 +35,9 @@ public class PlayerShooting : MonoBehaviour
     public void OnAttack(InputAction.CallbackContext context)
     {
         // Duck Attack, spawn fireball
-        if (context.performed && playerAnimator.GetBool("IsDucking") && playerAnimator.GetCurrentAnimatorStateInfo(0).IsName("DuckIdle"))
+        if (CanFireball && context.performed && playerAnimator.GetCurrentAnimatorStateInfo(0).IsName("DuckIdle"))
         {
+            SpecialMeter.Instance.TrySpend();
             playerAnimator.SetTrigger("DuckAttack");
         }
         

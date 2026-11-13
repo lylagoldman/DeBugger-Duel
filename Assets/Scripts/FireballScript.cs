@@ -14,8 +14,9 @@ public class FireballScript : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Transform fireballTransform;
-
     private float directionMultiplier;
+
+    [SerializeField] int damage = 75;
 
     void Start()
     {
@@ -60,13 +61,17 @@ public class FireballScript : MonoBehaviour
             rb.angularVelocity = 0f;
         }
     }
-        
-    private void OnTriggerEnter2D(Collider2D collider)
+ 
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collider.CompareTag("Enemy"))
+        var benny = other.GetComponentInParent<BennyHealth>();
+
+        if (other.CompareTag("Enemy") && benny != null)
         {
             fireballAnimator.SetTrigger("Impact");
             hasCollided = true;
+
+            benny.TakeDamage(damage);
         }
     }
 

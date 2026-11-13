@@ -23,18 +23,19 @@ public class IdleAttackPicker : StateMachineBehaviour
     {
         if (picked) return;
 
+        var attacks = animator.GetComponent<BennyAttacks>();
+        if (attacks != null && attacks.IsBusy) return;
+
         timer -= Time.deltaTime;
         if (timer > 0f) return;
 
-        int pick = Random.Range(0, 3);                  // 0 = Rain, 1 = Laser, 2 = Keyboard
+        int pick = Random.Range(0, 3); // 0 = Rain, 1 = Laser, 2 = Keyboard
         if (avoidRepeatingAttack && pick == lastPick)
-            pick = (pick + Random.Range(1, 3)) % 3;     // choose one of the other two
+            pick = (pick + Random.Range(1, 3)) % 3;
 
         lastPick = pick;
         picked = true;
 
-        // Roll this attack's color (purple/green, small chance of red) before the attack begins
-        var attacks = animator.GetComponent<BennyAttacks>();
         if (attacks != null) attacks.BeginAttack();
 
         animator.SetInteger(ChanceHash, pick);
@@ -42,6 +43,6 @@ public class IdleAttackPicker : StateMachineBehaviour
 
     public override void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        animator.SetInteger(ChanceHash, -1);   // so it can't retrigger when he returns to Idle
+        animator.SetInteger(ChanceHash, -1);
     }
 }

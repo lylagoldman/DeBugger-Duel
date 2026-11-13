@@ -1,10 +1,10 @@
 using System.Collections.Generic;
+using System.Collections;
 using UnityEngine;
 
 public class BennyAttacks : MonoBehaviour
 {
     [SerializeField] GameObject keyPrefab, binaryPrefab, laserPrefab, rainArrowPrefab;
-    [SerializeField] KeyType[] keyTypes;  
 
     [SerializeField] float rainSpawnY = 3.5f;
     [SerializeField] int rainSpawnCount = 15;
@@ -13,17 +13,45 @@ public class BennyAttacks : MonoBehaviour
 
     [SerializeField, Range(0f, 1f)] float redChance = 0.1f;
 
-    [SerializeField] Vector2 pos;
+    [Header("Laser")]
+    [SerializeField] Vector2 laserSpawnPos = new Vector2(0f, 0f);
+    [SerializeField] float laserSustainTime = 1.2f;
+    GameObject activeLaser;
 
+    [Header("Keys")]
+    [SerializeField] Transform keySpawnPoint;
+    [SerializeField] int keysPerVolley = 2;
+    [SerializeField] float timeBetweenKeys = 0.5f;
+    [SerializeField] KeyType[] keyTypes;
+
+    bool spawning;
+    public bool IsBusy => spawning || AttackObject.ActiveCount > 0;
 
     FxColor current;
     public void BeginAttack() => current = AttackColor.Roll(redChance);
 
-   public void SpawnKey()
+
+    public void SpawnKeyVolley()
     {
-        var go = Instantiate(keyPrefab, pos, Quaternion.identity);
+        if (!spawning) StartCoroutine(KeyVolley());
+    }
+
+    IEnumerator KeyVolley()
+    {
+        spawning = true;
+        for (int i = 0; i < keysPerVolley; i++)
+        {
+            SpawnKey();
+            yield return new WaitForSeconds(timeBetweenKeys);
+        }
+        spawning = false;
+    }
+
+    public void SpawnKey()
+    {
+        var go = Instantiate(keyPrefab, keySpawnPoint.position, Quaternion.identity);
         var key = go.GetComponent<KeyScript>();
-        key.Setup(keyTypes[Random.Range(0, keyTypes.Length)], current);
+        key.Setup(keyTypes[Random.Range(0, keyTypes.Length)], Random.value < 0.1f ? FxColor.Red : FxColor.Purple);
         key.Launch(Random.Range(5f, 9f), Random.Range(3f, 7f));
     }
 
@@ -56,6 +84,10 @@ public class BennyAttacks : MonoBehaviour
 
     public void SpawnLaser()
     {
-        
+        if (activeLaser != null) return;   // never two beams at once
+
+        activeLaser = Instantiate(laserPrefab, laserSpawnPos, Quaternion.identity);
+        activeLaser.GetComponent<FxColorizer>().SetColor(current);
+        activeLaser.GetComponent<LaserScript>().Init(laserSustainTime);
     }
 }

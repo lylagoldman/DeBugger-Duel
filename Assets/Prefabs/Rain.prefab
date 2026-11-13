@@ -12,13 +12,14 @@ GameObject:
   - component: {fileID: -7556901599838285335}
   - component: {fileID: 2371091299634411070}
   - component: {fileID: 4453423034741639427}
-  - component: {fileID: -1833287943903562525}
   - component: {fileID: -6826642253605323642}
   - component: {fileID: -8469809252828424940}
   - component: {fileID: 2510059085954879624}
+  - component: {fileID: -7998269218822382301}
+  - component: {fileID: -7470112238652526018}
   m_Layer: 0
   m_Name: Rain
-  m_TagString: Untagged
+  m_TagString: Hazard
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -128,33 +129,6 @@ MonoBehaviour:
   m_labelHash: 1.2985474e-36
   m_SpriteKey: 0
   m_SpriteHash: 914682526
---- !u!50 &-1833287943903562525
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7365973669687289807}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 3
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 5
 --- !u!61 &-6826642253605323642
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -240,4 +214,32 @@ MonoBehaviour:
   purple: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
   green: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
   red: {fileID: 7108339969198208228, guid: ae761a885008940848e01989c719d4cd, type: 3}
-  fallback: 1
+--- !u!114 &-7998269218822382301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7365973669687289807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a0426243006746189458697d2fb762d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  fallSpeed: 12
+  groundY: 0
+  halfHeight: 0.1
+  breakDuration: 0.167
+  hitbox: {fileID: -6826642253605323642}
+--- !u!114 &-7470112238652526018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7365973669687289807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce963fa5d497e49059eed2e7bd4874fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttackObject

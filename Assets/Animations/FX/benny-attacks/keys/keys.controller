@@ -21,7 +21,7 @@ AnimatorStateTransition:
   m_TransitionOffset: 0
   m_ExitTime: 0
   m_HasExitTime: 0
-  m_HasFixedDuration: 1
+  m_HasFixedDuration: 0
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
@@ -32,7 +32,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: key-tumble
+  m_Name: Key_Tumble
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -92,7 +92,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -5007996179552520061}
-    m_Position: {x: 340, y: 160, z: 0}
+    m_Position: {x: 320, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3065184287104087501}
     m_Position: {x: 610, y: 150, z: 0}
@@ -113,7 +113,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: key-break
+  m_Name: Key_Break
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []

@@ -9,9 +9,11 @@ public class BulletScript : MonoBehaviour
     private Animator bulletAnimator;
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
-    private Transform bulletTransform;
-   
+    private Transform bulletTransform;  
     private float directionMultiplier;
+
+    [SerializeField] int damage = 5;
+    [SerializeField] bool chargesMeter = true; 
 
     void Start()
     {
@@ -44,13 +46,17 @@ public class BulletScript : MonoBehaviour
             rb.linearVelocityX = 0;
         }
     }
-        
-    private void OnTriggerEnter2D(Collider2D collider)
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collider.CompareTag("Enemy"))
+        var benny = other.GetComponentInParent<BennyHealth>();
+
+        if (other.CompareTag("Enemy") && benny != null)
         {
             bulletAnimator.SetTrigger("Impact");
             hasCollided = true;
+            if (chargesMeter && SpecialMeter.Instance != null) SpecialMeter.Instance.AddHit();
+            benny.TakeDamage(damage);
         }
     }
 

@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class RainScript : MonoBehaviour
 {
-    [SerializeField] GameObject rainArrow;
     [SerializeField] GameObject rain;
 
     private Transform arrowTransform;
@@ -14,17 +13,16 @@ public class RainScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        arrowTransform = rainArrow.GetComponent<Transform>();
+        arrowTransform = transform;
         rainPosition = rain.GetComponent<Transform>().position;
         if (!colorAssigned) SetColor(AttackColor.Roll());
     }
     
-    // Called by BennyAttacks right after the arrow is spawned
-    public void SetColor(FxColor c)
+   public void SetColor(FxColor c)
     {
         color = c;
         colorAssigned = true;
-        var arrowColorizer = rainArrow.GetComponent<FxColorizer>();
+        var arrowColorizer = GetComponent<FxColorizer>();
         if (arrowColorizer != null) arrowColorizer.SetColor(c);
     }
 
@@ -42,6 +40,7 @@ public class RainScript : MonoBehaviour
 
         spawned.GetComponent<FxColorizer>().SetColor(color);
         PickRainType(spawned.GetComponent<Animator>());
+        Destroy(gameObject);
     }
 
     void PickRainType(Animator anim)

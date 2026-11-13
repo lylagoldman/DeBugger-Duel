@@ -9,15 +9,17 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7000591064937313467}
-  - component: {fileID: 9065523079350802754}
   - component: {fileID: 3225099826182047234}
+  - component: {fileID: 9065523079350802754}
   - component: {fileID: 453474717924430911}
-  - component: {fileID: -2818954002152467203}
   - component: {fileID: -2904680936179196825}
   - component: {fileID: -6287455944384280691}
+  - component: {fileID: -2818954002152467203}
+  - component: {fileID: 4079188584516710189}
+  - component: {fileID: -8003756612303842996}
   m_Layer: 0
   m_Name: Key
-  m_TagString: Obstacle
+  m_TagString: Hazard
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37,22 +39,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9065523079350802754
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6925103395370913864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteResolver
-  m_CategoryHash: 5.637192e-35
-  m_labelHash: 1.2985474e-36
-  m_SpriteKey: 0
-  m_SpriteHash: 403146754
 --- !u!212 &3225099826182047234
 SpriteRenderer:
   serializedVersion: 3
@@ -113,6 +99,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &9065523079350802754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6925103395370913864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteResolver
+  m_CategoryHash: 7.5900857e-19
+  m_labelHash: 0.00000040954276
+  m_SpriteKey: 0
+  m_SpriteHash: 965793079
 --- !u!114 &453474717924430911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126,33 +128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteLibrary
   m_Library: []
-  m_SpriteLibraryAsset: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
---- !u!114 &-2818954002152467203
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6925103395370913864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5b49321a41f54947a15047dbcd00634, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::KeyScript
-  horizontalSpeed: 7
-  launchUpSpeed: 5
-  gravity: 25
-  groundY: 0
-  keyHalfHeight: 0.2
-  bounciness: 0.6
-  stopBounceSpeed: 2
-  horizontalLossPerBounce: 0.9
-  slideFriction: 6
-  breakAfterSettled: 0.6
-  killX: -18
-  library: {fileID: 453474717924430911}
-  resolver: {fileID: 9065523079350802754}
-  box: {fileID: -2904680936179196825}
+  m_SpriteLibraryAsset: {fileID: 7108339969198208228, guid: fcfdf08ddc9d445b8aae94ee7650f939, type: 3}
 --- !u!61 &-2904680936179196825
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -183,7 +159,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -221,3 +197,57 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-2818954002152467203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6925103395370913864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b49321a41f54947a15047dbcd00634, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::KeyScript
+  library: {fileID: 453474717924430911}
+  resolver: {fileID: 9065523079350802754}
+  box: {fileID: -2904680936179196825}
+  horizontalSpeed: 8
+  launchUpSpeed: 10
+  gravity: 25
+  groundY: 0.15
+  keyHalfHeight: 0.2
+  bounciness: 0.8
+  horizontalLossPerBounce: 1
+  breakDuration: 0.05
+  killX: -18
+  breakOnBounce: 3
+--- !u!114 &4079188584516710189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6925103395370913864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea1bf59e58a549f2a360f967bf4f7f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FxColorizer
+  library: {fileID: 453474717924430911}
+  resolver: {fileID: 9065523079350802754}
+  purple: {fileID: 7108339969198208228, guid: d5ba06a500a28493980342eaae03755a, type: 3}
+  green: {fileID: 0}
+  red: {fileID: 7108339969198208228, guid: 99615f40624fc40979731b54cc7c486d, type: 3}
+--- !u!114 &-8003756612303842996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6925103395370913864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce963fa5d497e49059eed2e7bd4874fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttackObject
