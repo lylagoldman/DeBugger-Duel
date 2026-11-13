@@ -13,11 +13,6 @@
 
 ## 🕹️ Controls & Features
 
-### Core Features
-*   **Feature One:** A bullet point describing a cool mechanic (e.g., Procedural dungeon generation).
-*   **Feature Two:** Another mechanic (e.g., Physics-based combat).
-*   **Feature Three:** Flexible input mapping to keyboard
-
 ### Key Bindings
 | Action | Keyboard & Mouse | Gamepad |
 | :--- | :--- | :--- |
@@ -44,7 +39,7 @@ To clone and run this project locally, you will need **Unity Hub** and the corre
 3. **Launch the project:**
    * Make sure you open it using Unity version **6000.6.x** to prevent library conversion errors.
 4. **Load the Main Scene:**
-   * Navigate to `Assets/Scenes/` and double-click `Scene1.unity`.
+   * Navigate to `Assets/Scenes/` and double-click `Main.unity`.
 
 ---
 
@@ -64,8 +59,8 @@ Assets/
 ## 👥 Credits & Assets
 
 ### Third-Party Assets
-*   Patchbug sprite sheet from The Spriters Resource: https://www.spriters-resource.com/3ds/shantaeandthepiratescurse/asset/66758/
-*   Patchbug FX sheet from The Spriters Resource: https://www.spriters-resource.com/3ds/shantaeandthepiratescurse/asset/69320/
-*   Environment textures from the [Unity Asset Store](https://unity.com) (Standard Assets Pack).
+*   Patchbug sprite sheet from The Spriter's Resource: https://www.spriters-resource.com/3ds/shantaeandthepiratescurse/asset/66758/
+*   Patchbug FX sheet from The Spriter's Resource: https://www.spriters-resource.com/3ds/shantaeandthepiratescurse/asset/69320/
+*   Heart UI from The Spriter's Resource: https://www.spriters-resource.com/pc_computer/granddadmaniacancelled/asset/89036/
 
 ---
